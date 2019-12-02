@@ -1,0 +1,394 @@
+Unnamed: 0,a,b_x,c_x,d_x,e,f,g,h,i,j,k,b_y,c_y,d_y
+2,Lund_01374,Property,House,Cottage,Building,Roof,Home,Farmhouse,Rural area,Architecture,Real estate,Kulturen 8,@ PP\, Jul 2016
+3,Lund_02600,Tree,Green,Property,Residential area,Road,Public space,Daytime,Grass,Asphalt,Woody plant,Lund 9,@ David Bjarup, Oct 2016
+12,Lund_02806,Landmark,Architecture,Building,Sky,Classical architecture,Medieval architecture,Place of worship,Church,Cathedral,Historic site,[T T VT,@ Adrian Popescu, Sep 2016
+25,Lund_01821,Landmark,Sky,Architecture,Building,Spire,Daytime,Church,Medieval architecture,Wall,Tower,[T T o1 T T T,C » David Ekberg, Dec 2016
+28,Lund_02591,Architecture,Land lot,,,,,,,,,MAX IV Laboratory,S;. Bjarne Rosengrel, Jul 2016
+31,Lund_02708,Sky,Vegetation,Hill,Grassland,Grass,Cloud,Meadow,Land lot,Rural area,Prairie,Klosteréingshdjden,Klosteréingshdjden, Aug 2016
+33,Lund_01205,Building,Landmark,Architecture,Estate,Classical architecture,Palace,Mansion,Sky,House,Official residence,Lundagérd 9,(%) Lucila Cetin, Jul 2016
+37,Lund_00136,Spire,Steeple,Landmark,Church,Architecture,Building,Place of worship,Tree,Medieval architecture,Parish,‘ CeBpanuna [lyHi,‘ CeBpanuna [lyHi, Dec 2016
+46,Lund_02450,Property,House,Building,Chapel,Roof,Cottage,Architecture,Real estate,Home,Shed,\E e L ET T T T,6 IR DL, Dec 2016
+71,Lund_02170,Building,Property,Architecture,Landmark,Grass,Estate,Stately home,Facade,Tree,Mansion,Historiska museet vi,Simius Taaravare, Oct 2016
+76,Lund_01938,Landmark,Steeple,Architecture,Building,Spire,Tower,Church,Medieval architecture,Roof,Sky,Lund Cathedral,Leif Bengtsson, May 2016
+81,Lund_01025,Landmark,Architecture,Sky,Building,Church,Town,Medieval architecture,Steeple,Place of worship,City,Lund Cathedral {,J Jason Chaikin, Oct 2016
+85,Lund_02481,Building,Commercial building,Architecture,Corporate headquarters,Facade,Headquarters,Company,Mixed-use,Car,Vehicle,' Petar Novkovic,' Petar Novkovic, Sep 2016
+102,Lund_00538,Architecture,Building,Landmark,Medieval architecture,Tower,Church,Place of worship,City,Sky,Classical architecture,Lund Tourist Center,5‘3.‘..@ LU G, May 2016
+123,Lund_02292,Body of water,Water resources,Stream,Riparian zone,Watercourse,Nature,Waterway,Bank,River,Natural landscape,Rinnebick Gorge 2,M Maria Tracz, Sep 2016
+124,Lund_00737,Water,Water resources,Pond,Natural landscape,Bank,Waterway,Botany,Watercourse,Garden,Fish pond,Lundagérd,@ Juca Felix Galino, Jul 2016
+134,Lund_01246,Building,Landmark,Architecture,Town,City,Facade,Human settlement,Sky,Tower,Metropolitan area,Lund Cathedral ¢,Py ), Jul 2016
+137,Lund_00822,Body of water,Reflection,Water,Nature,Waterway,Natural landscape,Tree,Bank,Canal,River,Botanical Garden,1“{ ) Danijel O'Rourke, Sep 2016
+150,Lund_02496,Grass,Sport venue,Player,Team sport,Playground,Lawn,Ball game,Sports,Sports training,Sports equipment,Linero IP {,"@""‘ Staffan Slager", Aug 2016
+151,Lund_00834,Town,City,Human settlement,Public space,Building,Town square,Architecture,Plaza,Mixed-use,Tourism,Park Inn by Radissor,l& Thom Seaman, Oct 2016
+152,Lund_00061,Landmark,Building,Town,Tree,Sky,Architecture,Water,Waterway,City,House,' (&1 EY T,' (&1 EY T, Dec 2016
+153,Lund_01155,Classical architecture,Landmark,Building,Architecture,Facade,Palace,Courthouse,City,Official residence,Seat of local government,Lundagérd,@ Juca Felix Galino, Jul 2016
+161,Lund_00863,Landmark,Architecture,Palace,Building,Mansion,Château,Estate,Stately home,Tourism,Villa,Lundagérd,@ Juca Felix Galino, Jun 2016
+164,Lund_00987,Building,Estate,Architecture,Landmark,Mansion,Property,Palace,Stately home,Sky,Classical architecture,Lundagérd 9,({‘ Lucija Cetin, Jul 2016
+167,Lund_00799,Building,Landmark,Architecture,Medieval architecture,Facade,Church,Cathedral,Sky,Abbey,Place of worship,Lund Cathedral,"""R ET TS T", Sep 2016
+182,Lund_01783,Garden,Property,Botany,Botanical garden,Plant,Shrub,Tree,Building,Architecture,Spring,Botanical Garden,Elen Vasilova, Jul 2016
+189,Lund_00836,Estate,Building,Mansion,Palace,Landmark,Property,Stately home,Architecture,House,Official residence,Lundagérd 9,N  Niek Mereu, Oct 2016
+193,Lund_01484,Garden,Nature,Sky,Botanical garden,Natural landscape,Grass,Lawn,Botany,Wilderness,Tree,Stadsparken,Ingibjérg Magnui, Sep 2016
+206,Lund_01858,Body of water,Natural landscape,Nature,Bank,River,Natural environment,Water resources,Reflection,Tree,Pond,Stadsparken,Sebastian Svérde, Oct 2016
+217,Lund_02136,Landmark,Sky,Architecture,Building,Urban area,Town,City,Brick,Stately home,House,Lundagérd,Danijel O'Rourke, Sep 2016
+244,Lund_00998,Building,Estate,Landmark,Mansion,Palace,Property,Sky,Architecture,Official residence,House,Lundagérd 9,"f’, B e", Jul 2016
+248,Lund_01419,Classical architecture,Architecture,Building,Landmark,Facade,City,Basilica,Palace,Metropolis,Tourist attraction,Italia Il Ristorante,5@' Luis Villeda, Mar 2016
+251,Lund_02922,Body of water,Bank,Natural landscape,Nature,Vegetation,River,Nature reserve,Waterway,Natural environment,Water,Nobbelbvs mosse,Q Peter Nordensva, Sep 2016
+262,Lund_01008,Estate,Property,Mansion,Building,Manor house,House,Stately home,Château,Lawn,Palace,Botanical Garden,"-_’é, Tiago Duarte", Aug 2016
+268,Lund_00519,Landmark,Architecture,Building,Medieval architecture,Church,Facade,Classical architecture,Place of worship,Sky,Historic site,Lund Tourist Center,5‘3.‘..@ LU G, May 2016
+275,Lund_01767,Landmark,Architecture,Classical architecture,Building,Facade,House,Tourist attraction,Column,Seat of local government,Home,OLYMPUS DIGITAL C,@ Mariusz Denkiew, May 2016
+277,Lund_02185,Natural landscape,Nature,Reflection,Water,Sky,Tree,Natural environment,Bank,Cloud,River,L TR TR,RELEESLL TS (], Jul 2016
+291,Lund_02836,Building,Mansion,Estate,Palace,Property,Classical architecture,Landmark,Architecture,Official residence,Stately home,Botanical Garden,IM> Miklos Szakacs, Jul 2016
+293,Lund_00002,Classical architecture,Building,Architecture,Landmark,Palace,Facade,Official residence,Mansion,Courthouse,House,Universidad,N Nacho Laguna, Jul 2016
+294,Lund_02982,Pasture,Natural landscape,Nature,Grassland,Grass,Natural environment,Vegetation,Sky,Wildlife,Meadow,Hundrastgard ¢,g Mats Lund, Jul 2016
+311,Lund_00682,Estate,Building,Landmark,Mansion,Palace,Architecture,Water,Stately home,Official residence,Tree,Lundagérd,ﬂ Dimitri Claerbout, Sep 2016
+339,Lund_01139,Estate,Property,Landmark,Building,Architecture,Mansion,Garden,Botany,Botanical garden,Tree,Lundagérd,% William Térneber, Aug 2016
+341,Lund_02840,Estate,Building,Property,Mansion,Architecture,House,Garden,Home,Stately home,Lawn,Lundagérd,'aﬂ Gaston Ragnar R, Aug 2016
+346,Lund_02120,Architecture,Building,Commercial building,Headquarters,Corporate headquarters,Facade,Residential area,Metropolitan area,Condominium,City,Sony Mobile Commu,Daniel Kacz, Aug 2016
+362,Lund_01021,Landmark,Architecture,Building,City,Sky,Grass,Urban area,Campus,Church,Tree,Lundagérd c,L) Lurdes Otaegi, Sep 2016
+371,Lund_01897,Architecture,Residential area,Building,Metropolitan area,Property,Human settlement,Mixed-use,Urban area,City,Sky,R Y T EY T T,R Y T EY T T, May 2016
+374,Lund_00839,Landmark,Sky,Building,Architecture,Church,Place of worship,Medieval architecture,Cathedral,City,Facade,Lund Cathedral ¢,({‘ Lucija Cetin, Jul 2016
+376,Lund_01754,Property,Building,Estate,Garden,Architecture,Botany,Mansion,Stately home,Botanical garden,Real estate,Lundagérd,“’ Adrian Popescu, Sep 2016
+383,Lund_02188,Body of water,Water resources,Natural landscape,Riparian zone,Stream,Nature,Bank,Watercourse,Waterway,Water,Rinnebick Gorge 2,Cathrin Jung, Jul 2016
+395,Lund_02853,Brick,Property,Brickwork,Landmark,House,Building,Architecture,Wall,Sky,Home,Lundagérd,@ Mohammadjums, Mar 2016
+397,Lund_01641,Estate,Building,Property,Mansion,Landmark,Palace,Château,Stately home,Official residence,House,Lundagérd 9,dimitar vitev, Sep 2016
+400,Lund_02615,Body of water,Water resources,Natural landscape,Water,Nature,Reflection,River,Sky,Natural environment,Reservoir,Nobbelbvs mosse,f }l’ Gunilla Svartengi, Sep 2016
+404,Lund_02477,Building,Commercial building,Architecture,Facade,Sky,Corporate headquarters,Mixed-use,Company,Headquarters,City,,, Dec 2016
+413,Lund_01988,Landmark,Architecture,Building,Medieval architecture,Place of worship,Cathedral,Gothic architecture,Classical architecture,Facade,Church,[T T o1 T T,@‘}‘; lan Tan §, Jun 2016
+414,Lund_01822,Botany,Water,Tree,Architecture,Leaf,Garden,Botanical garden,Sky,Grass,Building,Lundagérd,Simius Taaravare, Oct 2016
+415,Lund_02043,Classical architecture,Building,Architecture,Landmark,Facade,Palace,Mansion,House,Estate,Tourist attraction,Lundagérd,@ Juca Felix Galino, Jul 2016
+441,Lund_01283,Landmark,Architecture,Building,Tree,Estate,Grass,Plant,Monument,Classical architecture,National historic landmark,Lundagérd o,E AR, May 2016
+448,Lund_01628,Landmark,Building,Architecture,Tower,Steeple,Tree,City,Facade,Historic site,Church,LT T o1 T T T,(O R, Jul 2016
+451,Lund_02146,Garden,Botanical garden,Tree,Botany,Spring,Sky,Plant,Flower,Shrub,Architecture,Lundagérd,% William Térneber, Aug 2016
+452,Lund_01556,Building,Landmark,Estate,Tree,Property,Mansion,Sky,Architecture,House,Palace,Lundagérd,Jani Maltehaim, Oct 2016
+454,Lund_01176,Landmark,Architecture,Classical architecture,Building,Palace,Tourism,Sky,Facade,Temple,Travel,Lundagérd 9,dimitar vitev, Sep 2016
+455,Lund_00392,Palace,Estate,Building,Mansion,Château,Architecture,Official residence,Plaza,City,House,Lundagérd,"% e,", May 2016
+483,Lund_02529,Natural landscape,Pasture,Nature,Wildlife,Nature reserve,Tree,Vegetation,Natural environment,Grass,Grassland,Rinnebick Gorge,i Chris Maljanovsk, Jul 2016
+496,Lund_02018,Garden,Natural landscape,Botanical garden,Property,Plant,Lawn,Flower,Landscaping,Botany,Yard,Botanical Garden,Joost van der Ga, Aug 2016
+501,Lund_02311,Swimming pool,Water,Leisure centre,Leisure,Sky,Swimming,Recreation,Summer,Fun,Sport venue,Killbybadet,Q' Daniel Kretz, Jul 2016
+520,Lund_00563,Estate,Building,Mansion,Property,Palace,Official residence,Stately home,House,Architecture,Manor house,Lundagérd,"% e,", May 2016
+529,Lund_01039,Building,Classical architecture,Mansion,Estate,Palace,Property,Architecture,Château,Official residence,Stately home,Lundagérd,@ Mohammadjums, Mar 2016
+530,Lund_01380,Sky,Cloud,Urban area,Daytime,Residential area,Aerial photography,Metropolitan area,Atmospheric phenomenon,City,Suburb,Elite Hotel Ideon,Renard Kutrzeba, Aug 2016
+533,Lund_01284,Landmark,Tower,Architecture,Building,Steeple,Medieval architecture,Historic site,Sky,Church,Bell tower,Lundagérd ¢,Burhan Erding, Jul 2016
+541,Lund_02340,Tree,Natural landscape,Nature,Grass,Lawn,Woody plant,Plant,Morning,Spring,Park,LIS T g,g Mats Lund, Jul 2016
+560,Lund_01763,Landmark,Architecture,Building,Sky,City,Medieval architecture,Facade,Classical architecture,Spire,Street,Lund Cathedral,Minh Do-Quang, Mar 2016
+563,Lund_02244,Grass,Architecture,Property,Sky,Land lot,Lawn,Building,House,Estate,Plant,Klostergérdens IP,Jack Forsberg, Nov 2016
+568,Lund_00884,Garden,Tree,Botany,Architecture,Park,Botanical garden,Grass,Plant,Walkway,Building,Lundagérd,@ Juca Felix Galino, Jul 2016
+573,Lund_02526,Natural landscape,Sky,Nature,Reflection,Water,Natural environment,Water resources,Marsh,Grassland,Cloud,e Bjérn Davidsson,e Bjérn Davidsson, May 2016
+577,Lund_00379,Building,Estate,Property,Palace,Architecture,Landmark,Mansion,Sky,House,Château,[T TV TTET 3 T,[T TV TTET 3 T, Aug 2016
+578,Lund_00735,Estate,Property,Building,Mansion,House,Landmark,Home,Architecture,Sky,Palace,Lundagérd,ri‘ Debra Beight, Sep 2016
+583,Lund_02203,Transport,Building,Vehicle,Facade,Architecture,Bicycle,Recreation,,,,@ Steven Vancoillie,@ Steven Vancoillie, Sep 2016
+588,Lund_00450,Estate,Building,Palace,Mansion,Property,Official residence,Château,Stately home,Manor house,House,Lundagérd,"% e,", May 2016
+609,Lund_01016,Natural landscape,Body of water,Nature,Water resources,Natural environment,Water,Sky,Pond,Bank,Nature reserve,Fredentorps Begravn,6 IR DL, Sep 2016
+629,Lund_02366,Land lot,Grass,Grassland,Pasture,Lawn,Rural area,Farm,Tree,Meadow,Recreation,Lunds Pistolklubb :,@ Jonas Ezzi, Jun 2016
+630,Lund_02468,Body of water,Water resources,Water,Nature,Natural landscape,River,Reservoir,Natural environment,Sky,Bank,Nobbel6vs mosse,L  Lilja Skold, Sep 2016
+646,Lund_01136,Classical architecture,Architecture,Building,Landmark,Facade,City,Courthouse,Seat of local government,Palace,Tourist attraction,Italia Il Ristorante,5@' Luis Villeda, Mar 2016
+651,Lund_02737,Natural landscape,Sky,Cloud,Natural environment,Land lot,Tree,Grass,Nature reserve,Wilderness,Rural area,Stadsodlingen pa Br,g Mats Lund, Feb 2016
+666,Lund_02332,Vegetation,Nature reserve,Tree,Grass,Wilderness,Rural area,Pasture,Grass family,Grassland,Highland,Fredentorps Begravr,Christoffer Norér, Jul 2016
+674,Lund_01839,Estate,Mansion,Building,Property,Palace,Landmark,Château,Official residence,Stately home,Manor house,Lundagérd,Jitka Lepiarzova, May 2016
+679,Lund_02371,Sky,Cloud,Grass family,Land lot,Grass,Tree,Cumulus,Rural area,Meadow,Landscape,Stadsodlingen pé Brr,S;. Bjarne Rosengrel, Jul 2016
+690,Lund_00253,Château,Estate,Building,Property,Landmark,Stately home,Palace,Manor house,Architecture,Castle,Grand Hotel Lund,K  Kristian Rigbolt, Aug 2016
+691,Lund_01629,Residential area,Building,Neighbourhood,Property,Town,Human settlement,Architecture,Metropolitan area,Urban area,Mixed-use,Another parking plac,Gabor Papp, Aug 2016
+692,Lund_00636,Landmark,Building,Spring,Flower,Architecture,Plant,Palace,Reflecting pool,Estate,Château,Lundagérd,B Bertha Rohenkol, May 2016
+694,Lund_02073,Sky,Architecture,Blue,Landmark,Building,Daytime,Classical architecture,Cathedral,Facade,Cloud,Lundagérd,?‘ Riccardo Patriarc, Oct 2016
+702,Lund_00366,Building,Landmark,Estate,Architecture,Stately home,Mansion,Palace,Garden,Botany,Tree,Lundagérd,@ Juca Felix Galino, Jul 2016
+704,Lund_02604,Natural landscape,Sky,Grassland,Natural environment,Pasture,Rural area,Grass,Line,Tree,Field,Nobbel6vs mosse,Nobbel6vs mosse, Dec 2016
+705,Lund_02282,Sky,Land lot,Pasture,Cloud,Grass,Grassland,Rural area,Fence,Plain,Landscape,CircleK,e Thanon Shamel, Aug 2016
+718,Lund_01923,Landmark,Town,Architecture,Building,City,Sky,Tower,Urban area,Street,Tourism,Lund Cathedral,A  Alejandro Carrillc, Aug 2016
+721,Lund_00732,Medieval architecture,Property,Castle,Building,Architecture,Fortification,Tree,Historic site,Château,Plant,Lundagérd,@ Juca Felix Galino, Jul 2016
+733,Lund_01234,Landmark,Architecture,Building,Medieval architecture,Church,Place of worship,Steeple,Sky,Château,Tree,Lund Cathedral ¢,Py ), Jul 2016
+743,Lund_01521,Town,Landmark,City,Human settlement,Town square,Public space,Plaza,Street,Building,Flag,Lund Cathedral,Pedro Andrés Bo, Aug 2016
+751,Lund_00933,Building,Architecture,Medieval architecture,Landmark,Classical architecture,Place of worship,Cathedral,Gothic architecture,Facade,City,Lundagérd,“’ Adrian Popescu, Sep 2016
+753,Lund_00217,Roof,Residential area,Town,Sky,Urban area,Neighbourhood,Human settlement,Suburb,City,Building,Lund,"% e,", May 2016
+759,Lund_02562,Vegetation,Natural environment,Sky,Grassland,Hill,Land lot,Shrubland,Wilderness,Ecoregion,Grass,Klosteréingshdjden,Klosteréingshdjden, Aug 2016
+764,Lund_02752,Pasture,Field,Land lot,Natural landscape,Grassland,Natural environment,Sky,Grass,Plain,Soil,Nobbelbvs mosse,Q Peter Nordensva, Sep 2016
+779,Lund_03152,Body of water,Natural landscape,Nature,Water resources,Water,Natural environment,Nature reserve,Sky,Vegetation,Bank,Nobbelbvs mosse,K Karl Magnus Adi, May 2016
+781,Lund_02436,Natural landscape,Nature,Water,Nature reserve,Wilderness,Bank,Natural environment,Watercourse,River,Tree,Vérpinge Hundrastpl,& Victor Kalbskopf, Oct 2016
+784,Lund_02678,Vegetation,Grass,Natural environment,Natural landscape,Nature reserve,Property,Tree,Garden,Biome,Botany,L TG 8,g Mats Lund, Jul 2016
+789,Lund_03089,Fountain,Water,Water feature,Leisure,Water resources,Park,Fun,Recreation,Grass,Tree,Plaskedamm pa Klos,B Bengt Rosberg, Jun 2016
+794,Lund_02624,Grassland,Natural landscape,Land lot,Field,Natural environment,Grass,Vegetation,Plain,Pasture,Prairie,Klosteréngshojden,Q Peter Nordensva, Sep 2016
+804,Lund_00902,Water,Sky,Fountain,Architecture,Botany,Tree,Estate,Water feature,Building,Park,Lundagérd,'aﬁ Gaston Ragnar R, Aug 2016
+808,Lund_01756,Estate,Building,Mansion,Property,Palace,Manor house,Stately home,Château,House,Official residence,Lundagérd,Martin Pehrsson, Jul 2016
+841,Lund_00579,Reflection,Waterway,Natural landscape,Canal,Water,House,River,Pond,Watercourse,Building,Kulturen 8,@ PP\, Jul 2016
+847,Lund_01370,Aerial photography,Bird's-eye view,Architecture,Landscape,House,Photography,Estate,City,Urban design,Building,Stora Raby Kyrka,Kenton Knowles, Dec 2016
+856,Lund_01695,Building,Landmark,Architecture,Sky,Church,Medieval architecture,Facade,Cathedral,Place of worship,City,Lund Cathedral (,ﬁ John Eckerdal, May 2016
+858,Lund_00471,Building,Property,Medieval architecture,Architecture,Château,House,Estate,Historic house,Historic site,Facade,Kulturen |,Kulturen |, Aug 2016
+869,Lund_02066,Sky,Sport venue,Natural landscape,Grass,Green,Land lot,Grassland,Property,Natural environment,Tree,Lund Oval 3,Abin Thomas, Aug 2016
+876,Lund_02049,Body of water,Natural landscape,Water resources,Pond,Nature,Water,Bank,Vegetation,Fish pond,Nature reserve,Botanical Garden,(%) Lucila Cetin, Jul 2016
+894,Lund_00274,Building,Estate,Palace,Classical architecture,Landmark,Architecture,Mansion,Official residence,Château,Reflecting pool,Lundagérd 9,A Attila Csap6, Jul 2016
+906,Lund_00332,Estate,Building,Palace,Property,Mansion,Stately home,Official residence,House,Château,Architecture,Lundagérd,“’ Adrian Popescu, Sep 2016
+908,Lund_02871,Landmark,Estate,Building,Memorial,Architecture,Tree,Monument,Château,Mansion,Historic site,Lundagérd 8,(%) Lucila Cetin, Jul 2016
+924,Lund_02532,Natural landscape,Body of water,Sky,Water,Nature,Water resources,Vegetation,Natural environment,Lake,Nature reserve,L TR TR,J Joachim Schéns, Jul 2016
+926,Lund_01731,Classical architecture,Architecture,Building,Landmark,Facade,City,Courthouse,Tourist attraction,Monument,Seat of local government,Lundagérd,@ Juca Felix Galino, Jun 2016
+930,Lund_01905,Building,Property,Estate,Mansion,House,Architecture,Facade,Tree,Palace,Real estate,Lundagérd,@ Juca Felix Galino, Jun 2016
+932,Lund_02837,Wall,Landmark,Medieval architecture,Sky,Historic site,Architecture,Building,Church,Tree,Place of worship,Klosterkyrkan ¢,& saad al saifi, Jun 2016
+937,Lund_00528,Estate,Building,Property,Mansion,Palace,House,Château,Stately home,Architecture,Manor house,Lundagérd |,@ Mr.Roman Lak, Jun 2016
+941,Lund_02739,Sky,Sport venue,Basketball court,Net,Cloud,Goal,Grass,Land lot,Tree,Architecture,LIS T g,g Mats Lund, Jul 2016
+945,Lund_01921,Garden,Botanical garden,Tree,Natural landscape,Sky,Botany,Shrub,Grass,Park,Hedge,Stadsparken 2,@’ Ani Vera, Jul 2016
+948,Lund_02303,Grass,Lawn,Grassland,Natural environment,Land lot,Tree,Pasture,Grass family,Sky,Architecture,Lunds Pistolklubb :,@ Jonas Ezzi, Aug 2016
+958,Lund_00438,Landmark,Building,Estate,Water,Reflecting pool,Architecture,Mansion,Reflection,Palace,Château,Lundagérd,3 .> Ole Dahlmann-H:, Sep 2016
+963,Lund_01991,Fountain,Water,Water feature,Reflecting pool,Botany,Tree,Garden,Architecture,Botanical garden,Pond,A  Alejandro Carrillc,A  Alejandro Carrillc, Aug 2016
+979,Lund_02826,Estate,Building,Property,Town,House,Architecture,Residential area,Mansion,Tree,Home,Kulturen |,Kulturen |, Aug 2016
+982,Lund_00542,Building,Estate,Palace,Mansion,Property,Stately home,Château,House,Official residence,Architecture,Lundagérd,[ BRI TS, Sep 2016
+985,Lund_02782,Natural landscape,Sky,Grassland,Nature,Natural environment,Cloud,Prairie,Grass,Plain,Field,. LEChT e En],. LEChT e En], Jul 2016
+991,Lund_01765,Landmark,Building,Medieval architecture,Architecture,Historic site,Tower,Observation tower,Turret,Estate,Facade,Lund Cathedral,Hans Wilhelm He, Jun 2016
+995,Lund_02285,Vehicle,Car,Transport,Building,Car dealership,Parking lot,Retail,Real estate,Parking,City,Christian Ekstran,Christian Ekstran, Sep 2016
+1001,Lund_01857,Property,Building,House,Architecture,Town,Estate,Real estate,Manor house,Home,Almshouse,Kulturen,Hassanain Goval, Sep 2016
+1007,Lund_01357,Garden,Tree,Botany,Water,Botanical garden,Park,Sky,Architecture,Tourism,Leisure,Lundagérd,@ Juca Felix Galino, Jun 2016
+1013,Lund_01944,Sport venue,Skatepark,Public space,Playground,Recreation,Leisure,Photography,Panorama,Park,City,Stadsparken 9,Stadsparken 9, Aug 2016
+1018,Lund_01737,Medieval architecture,Landmark,Architecture,Place of worship,Building,Cathedral,Gothic architecture,Spire,Steeple,Church,Lund Cathedral 3,Filip Tvetberg, Sep 2016
+1029,Lund_01791,Sky,Landmark,Architecture,Building,Medieval architecture,Historic site,Church,Wall,Place of worship,Cloud,Lund Cathedral,Bnapumup Poma, Nov 2016
+1030,Lund_00191,Landmark,Architecture,Medieval architecture,Night,Building,Sky,Place of worship,Church,Facade,Cathedral,fbs Meghnath Saha,fbs Meghnath Saha, Sep 2016
+1031,Lund_01786,Building,Property,Real estate,Facade,Awning,House,Restaurant,,,,L0y /p 8,& saad al saifi, Jul 2016
+1036,Lund_02564,Building,Factory,Floor,Machine,Flooring,,,,,,MAX IV Laboratory,@ EONE Y, Oct 2016
+1040,Lund_01762,Fountain,Water,Water resources,Water feature,Garden,Grass,Sky,Botanical garden,Tree,Park,Stadsparken,Gabriel Wennstig, Jun 2016
+1050,Lund_02108,Metropolitan area,Building,Architecture,City,Urban area,Tower block,Daytime,Sky,Human settlement,Skyscraper,LRI EL Y T,5‘3.‘..@ LU G, May 2016
+1063,Lund_00678,Building,Palace,Estate,Official residence,Waterway,Château,Architecture,Reflecting pool,Mansion,Stately home,Lundagérd 8,f} sasan fallahi, Sep 2016
+1081,Lund_00575,Estate,Building,Stately home,Palace,Mansion,Castle,Château,Plaza,Manor house,Sky,Lundagérd,L Laia Puig Blasco, Aug 2016
+1093,Lund_00557,Building,Property,Estate,Mansion,Stately home,Architecture,Historic house,Palace,College,House,Grand Hotel Lund,G Goran Heldesten, Jul 2016
+1106,Lund_01691,Body of water,Water resources,Bank,Nature,Pond,Water,River,Natural environment,Natural landscape,Reservoir,Stadsparken,A  Alejandro Carrillc, Jun 2016
+1108,Lund_01743,Property,Estate,Building,Manor house,House,Mansion,Stately home,Botany,Real estate,Cottage,Botanical Garden,Botanical Garden, Aug 2016
+1109,Lund_03082,Property,Tree,Home,House,Real estate,Building,Recreation,Park,,,CircleK,e Thanon Shamel, Aug 2016
+1112,Lund_02077,Water,Fountain,Architecture,Tree,Park,Water feature,Building,,,,Lundagérd,ﬂ Dimitri Claerbout, Sep 2016
+1114,Lund_00602,Estate,Mansion,Building,Palace,Property,Official residence,Stately home,Architecture,Château,Manor house,Lundagérd,M) Mikael Eriksson, Jul 2016
+1117,Lund_01827,Architecture,Palace,Tourism,Building,Facade,House,Vacation,Château,City,Classical architecture,Lundagérd,l{’;ﬁ Rohan Jn. Baptis, Jun 2016
+1118,Lund_02679,Grassland,Natural environment,Prairie,Natural landscape,Sky,Plain,Steppe,Ecoregion,Grass,Horizon,Klosteréngshojden,# Viktor Erik Jense, May 2016
+1135,Lund_01345,Building,Classical architecture,Landmark,Architecture,Palace,Official residence,Sky,Facade,Mansion,Estate,Lundagérd,6’ Michael Dobson, May 2016
+1137,Lund_01272,Body of water,Bank,Natural landscape,Nature,Water,River,Water resources,Natural environment,Riparian zone,Nature reserve,Stadsparken (,Pavel Chébera, Mar 2016
+1145,Lund_01001,Fountain,Water,Water resources,Water feature,Grass,Landscaping,Garden,Lawn,Watercourse,Landscape,Stadsparken i Lund,Stadsparken i Lund, Aug 2016
+1152,Lund_01583,Building,Transport,Vehicle,,,,,,,,Shyam A,Shyam A, May 2016
+1154,Lund_02661,Property,Sky,Cloud,House,Building,Home,Architecture,Real estate,Land lot,Rural area,Ostra Torns Ryttarsi,g Mats Lund, Jul 2016
+1167,Lund_02316,Property,House,Home,Roof,Building,Cottage,Real estate,Residential area,Architecture,Estate,Ostra Torns Montess,‘ LGB ORIl, May 2016
+1171,Lund_01873,Water,Fountain,Botany,Reflecting pool,Tree,Park,Botanical garden,Architecture,Water feature,Garden,Lundagérd 9,LT =T, Oct 2016
+1179,Lund_01648,Architecture,Building,Facade,House,City,Mixed-use,Commercial building,Glass,Residential area,Tourism,Nova .,5‘3.‘..@ Khoo Kay Joe, May 2016
+1181,Lund_00094,Spire,Landmark,Architecture,Building,Steeple,Church,Place of worship,Medieval architecture,Cathedral,Brick,‘ (&1 EY T,‘ (&1 EY T, Dec 2016
+1190,Lund_01798,Building,Architecture,Medieval architecture,Landmark,Place of worship,Church,Cathedral,Sky,City,Classical architecture,Need to go! Sweet ar,“s déxna KapneoHe, Jul 2016
+1194,Lund_03000,Pasture,Grazing,Herd,Grassland,Bovine,Atmospheric phenomenon,Morning,Rural area,Meadow,Farm,Jensen SportAB,| Lisa Silvereus, Jul 2016
+1202,Lund_02280,Natural landscape,Natural environment,Nature,Grassland,Nature reserve,Vegetation,Marsh,Pasture,Wetland,Land lot,Nobbel6vs mosse,Lilja Skéld, Sep 2016
+1208,Lund_02103,Landmark,Building,Sky,Architecture,Medieval architecture,Tower,Town,City,Wall,Church,Lund Cathedral,M Mara Maculevica, Nov 2016
+1235,Lund_02398,Sky,Property,Cloud,House,Home,Residential area,Architecture,Real estate,Building,Tree,Bléklintens preschoc,g Mats Lund, Jul 2016
+1237,Lund_01854,Medieval architecture,Building,Property,Architecture,Landmark,Facade,Historic site,Wall,Brick,Roof,Lundagérd,@ Juca Felix Galino, Jul 2016
+1245,Lund_01676,Landmark,Building,Town,Architecture,Sky,City,Medieval architecture,Tree,Stately home,Facade,University Library,Henrik Klasson, Oct 2016
+1260,Lund_02005,Building,Estate,Mansion,Property,Palace,House,Stately home,Official residence,Architecture,Presidential palace,Lundagérd c,Matic Smodis, Aug 2016
+1275,Lund_01562,Sport venue,Natural landscape,Land lot,Grassland,Green,Sky,Grass,Natural environment,Plain,Golf course,Sankt Hans Hill ¢,Hafidz Alhaq, Sep 2016
+1285,Lund_03130,Sky,Cloud,Land lot,Plain,Rural area,Landscape,Photography,Airport,Prairie,House,MAX IV Laboratory,6 IR DL, Sep 2016
+1292,Lund_01142,Landmark,Architecture,Building,Sky,Mansion,Stately home,Palace,Spring,Estate,Plant,LG LT,@ Anamaria Dutcez, Aug 2016
+1297,Lund_01157,Building,Architecture,Landmark,Medieval architecture,Facade,Church,Classical architecture,Place of worship,Cathedral,History,Lund Cathedral,m  michella obradoy, Oct 2016
+1306,Lund_00718,Landmark,Building,Architecture,Sky,Medieval architecture,Place of worship,Church,Cathedral,City,Classical architecture,Lund Cathedral ¢,({‘ Lucija Cetin, Jul 2016
+1309,Lund_00622,Building,Estate,Palace,Mansion,Property,Stately home,Château,House,Official residence,Architecture,Lundagérd,[ BRI TS, Sep 2016
+1311,Lund_02830,Town,Plaza,Building,Property,Town square,City,Public space,Human settlement,Neighbourhood,Mixed-use,BMC - Biomedical Cq,6 IR DL, Sep 2016
+1317,Lund_02795,Holy places,Architecture,Arch,Building,Basilica,Art,,,,,SONY DSC,e Ismo Kelokaski, Jul 2016
+1330,Lund_00540,Building,Estate,Palace,Mansion,Property,Stately home,Château,House,Official residence,Architecture,Lundagérd,[ BRI TS, Sep 2016
+1336,Lund_00420,Estate,Building,Property,Mansion,Palace,House,Official residence,Château,Stately home,Architecture,Lundagérd 8,4 ) ZKhaleel, Sep 2016
+1338,Lund_00615,Landmark,Building,Architecture,Tree,Estate,Courthouse,House,Mansion,City,Tourist attraction,Lundagérd,@ loanna Giannopo, Aug 2016
+1348,Lund_01624,Natural landscape,Garden,Vegetation,Plant,Botanical garden,Shrub,Tree,Flower,Grass,Botany,Botanical Garden,Nikhil Verma, Jun 2016
+1353,Lund_02593,Body of water,Water resources,Natural landscape,Nature,Riparian zone,Water,River,Watercourse,Bank,Stream,Vackert stopp pa mii,[0 P, Aug 2016
+1355,Lund_03190,Landmark,Architecture,Building,Church,Medieval architecture,Sky,Steeple,Town,Place of worship,Spire,Lundagérd ¢,Janek Friesen, May 2016
+1356,Lund_03140,Playground,Public space,Outdoor play equipment,Human settlement,Recreation,City,Sport venue,Park,Asphalt,Leisure,Linero IP,.@ Martin Andersso, Jun 2016
+1383,Lund_01910,Building,Church,Place of worship,Architecture,Parish,Chapel,Steeple,Medieval architecture,Listed building,Cathedral,Allhelgonakyrkan ¢,"@,: saad al saifi", Jun 2016
+1386,Lund_01317,Property,Building,Architecture,Medieval architecture,House,Roof,Estate,Château,Facade,Historic site,Kulturen |,Kulturen |, Aug 2016
+1397,Lund_02265,Garden,Botanical garden,Botany,Park,Tree,Estate,Grass,Sky,Land lot,Shrub,Klostergérdens IP,reinder hoekstra, Jul 2016
+1410,Lund_00631,Building,Estate,Mansion,Palace,Landmark,Stately home,Official residence,Architecture,Château,Presidential palace,Lundagérd,@ Juca Felix Galino, Jul 2016
+1412,Lund_02383,Property,Architecture,Land lot,Real estate,Sky,Building,Facade,Soil,House,Landscape,MAX IV Laboratory,@ hormiai7é, May 2016
+1414,Lund_00037,Landmark,Building,Architecture,Medieval architecture,Town,City,Church,Cathedral,Sky,Place of worship,,, Jul 2016
+1422,Lund_02158,Garden,Property,Botanical garden,Daytime,Botany,Architecture,Tree,Sky,Spring,Estate,Botanical Garden,A  Alejandro Carrillc, Jul 2016
+1427,Lund_02328,Grassland,Grass,Pasture,Land lot,Meadow,Grass family,Lawn,Tree,Recreation,Plant,Lunds Pistolklubb :,@ Jonas Ezzi, Aug 2016
+1432,Lund_00708,Building,Landmark,Architecture,Grass,Church,Tree,Medieval architecture,Sky,Stately home,Estate,Lund Cathedral,A  Alejandro Carrillc, Aug 2016
+1442,Lund_00776,Building,Landmark,Estate,Mansion,Palace,Property,Architecture,House,Official residence,Sky,,, Aug 2016
+1448,Lund_00693,Estate,Building,Mansion,Landmark,Property,Palace,House,Architecture,Official residence,Manor house,Lundagérd,"@"" pieterjan vaneerc", Sep 2016
+1460,Lund_00768,Building,Mansion,Estate,Landmark,Property,Architecture,Palace,House,Stately home,Château,Lundagérd 9,T ) Tom Zeitlos, Jun 2016
+1470,Lund_01423,Garden,Botanical garden,Natural landscape,Plant,Shrub,Flower,Botany,Lawn,Landscaping,Landscape,Botanical Garden,Amelie Harms, Jul 2016
+1472,Lund_02732,Sky,Natural landscape,Horizon,Grassland,Natural environment,Field,Grass,Atmospheric phenomenon,Plain,Line,Nobbel6vs mosse,Nobbel6vs mosse, Dec 2016
+1481,Lund_02727,Retail,Building,Supermarket,Convenience store,Marketplace,Grocery store,Outlet store,Aisle,Floor,Trade,ICA Supermarket Lin,ﬂ) Mr.Roman Lak, Oct 2016
+1483,Lund_01262,Natural landscape,Nature,Highland,Wilderness,Grass,Nature reserve,Geological phenomenon,Hill,Fell,Waterway,Virpinge Golfklubb,& Victor Kalbskopf, Oct 2016
+1486,Lund_00345,Building,Landmark,Palace,Architecture,Classical architecture,Property,Mansion,Estate,Official residence,House,Lundagérd,A  Alejandro Carrillc, Jun 2016
+1494,Lund_00173,Tree,Property,House,Town,Neighbourhood,Building,Urban area,Brick,Residential area,Architecture,‘ (&1 EY T,‘ (&1 EY T, Dec 2016
+1496,Lund_00820,Cobblestone,Town,Public space,Sky,Human settlement,Flooring,City,Town square,Tourism,Street,Stortorget c,(r;’ Mato Bo$njak, Aug 2016
+1501,Lund_01603,Fountain,Daytime,Sky,Water feature,Public space,Park,Water,Botany,Tree,Grass,Stadsparken ¢,ﬁ John Eckerdal, Jul 2016
+1519,Lund_01485,Garden,Botanical garden,Property,Natural landscape,Lawn,Grass,Landscape,Shrub,Landscaping,Botany,Botanical Garden,Michael Sturaro, Aug 2016
+1526,Lund_00256,Building,Property,Estate,Mansion,Architecture,Château,Stately home,House,Home,Historic house,26/6/2016 8,& saad al saifi, Jun 2016
+1528,Lund_01092,Landmark,Building,Mansion,Estate,Property,Architecture,House,Sky,Stately home,Home,Lundagérd H,"«’l‘é‘f"" ARG Y", Sep 2016
+1538,Lund_02284,Building,Factory,Industry,Interior design,Loft,Floor,Hall,Architecture,Flooring,Engineering,MAX IV Laboratory,@ EONE Y, Oct 2016
+1544,Lund_00180,Town,City,Human settlement,Public space,Transport,Downtown,Urban area,Architecture,Building,Street,[T ¢,@ Mato Bo$njak, Aug 2016
+1545,Lund_02792,Landmark,Architecture,Building,Night,Sky,Light,Lighting,Medieval architecture,Cathedral,Facade,f.s Meghnath Saha,f.s Meghnath Saha, Sep 2016
+1555,Lund_02541,Sky,Natural landscape,Sea,Horizon,Cloud,Water,Coast,Land lot,Grass,Plain,Klosteréngshojden,Klosteréngshojden, Aug 2016
+1562,Lund_02266,Water resources,Body of water,Waterway,Stream,Watercourse,Bank,Water,Stream bed,Riparian zone,Arroyo,Rinnebick Gorge 2,Maria Tracz, Sep 2016
+1575,Lund_00418,Building,Architecture,Landmark,Property,Stately home,Medieval architecture,Town,City,Château,Estate,Lund 2016 .4.29 :,& saad al saifi, Apr 2016
+1577,Lund_02483,Building,Road,Signage,,,,,,,,Netto,» & E R Ry, Sep 2016
+1578,Lund_02089,Property,Garden,House,Estate,Natural landscape,Lawn,Home,Landscaping,Building,Tree,Botanical Garden,Krisztina Boldisn, Aug 2016
+1582,Lund_02712,Residential area,Building,Architecture,Neighbourhood,Property,Human settlement,Urban area,Town,City,Apartment,Virvelvindsviagen ¢,t Erik Lundgren, Oct 2016
+1584,Lund_00625,Estate,Building,Mansion,Property,Palace,Stately home,Manor house,Château,House,Official residence,[T T VT,@ Adrian Popescu, Sep 2016
+1588,Lund_00446,Building,Landmark,Architecture,Property,Palace,Estate,Stately home,Château,Facade,Medieval architecture,Lundagérd 8,@ PP\, Jul 2016
+1590,Lund_02690,Vegetation,Grass,Lawn,Natural landscape,Green,Natural environment,Nature reserve,Tree,Property,Land lot,Hundrastgard ¢,& Mats Lund, Jul 2016
+1594,Lund_00177,Spire,Steeple,Tree,Sky,Church,Woody plant,Architecture,Tower,Plant,Building,‘ CeBpanuna [yHi,‘ CeBpanuna [yHi, Dec 2016
+1598,Lund_00744,Estate,Building,Mansion,Landmark,Property,Palace,Architecture,Stately home,Château,House,[T T VT,@ Adrian Popescu, Sep 2016
+1599,Lund_00688,Building,Mansion,Estate,Classical architecture,Landmark,Palace,Official residence,Architecture,Property,Stately home,Lundagérd,@ Juca Felix Galino, Jul 2016
+1607,Lund_00111,Building,Architecture,Town,Landmark,City,Property,Human settlement,Mixed-use,Urban area,Tree,' (&1 EY T,' (&1 EY T, Dec 2016
+1609,Lund_01220,Building,Property,Estate,Architecture,Stately home,Palace,Human settlement,City,Campus,Grass,Lundagérd,@ Juca Felix Galino, Jul 2016
+1614,Lund_01244,Classical architecture,Building,Architecture,Landmark,Facade,Courthouse,Tourist attraction,Column,Palace,Photography,Lundagérd,Centar Prevencij:, Oct 2016
+1626,Lund_01271,Classical architecture,Architecture,Landmark,Building,Facade,House,Sky,Courthouse,Material property,Column,Lundagérd,Maria del Carme!, Sep 2016
+1628,Lund_01492,Landmark,Building,Architecture,Medieval architecture,Cathedral,Place of worship,Classical architecture,Church,Facade,Gothic architecture,Lund Cathedral,RICUCEIEE, Aug 2016
+1632,Lund_00667,Landmark,Sky,Building,Architecture,Palace,Estate,Mansion,City,Tree,Stately home,Lundagérd,% William Térneber, Aug 2016
+1645,Lund_00833,Building,Estate,Landmark,Stately home,Architecture,Palace,Château,Mansion,Castle,Manor house,Lundagérd 8,é@l Luis Villeda, Mar 2016
+1656,Lund_01896,Landmark,Sky,Architecture,Building,Town,Spire,City,Steeple,Urban area,Church,Lund Cathedral,Simone Pellegrin, Mar 2016
+1665,Lund_01385,Building,Transport,Vehicle,Car,Architecture,Real estate,Commercial building,Compact car,Subcompact car,Facade,Nova i Lund,Nevruz Alievski, Oct 2016
+1674,Lund_00645,Botany,Architecture,Water,Botanical garden,Garden,Flower,Plant,Spring,Tree,Building,Lundagérd,@ Juca Felix Galino, Jul 2016
+1682,Lund_02314,Architecture,Land lot,Ecoregion,Sky,Grassland,Prairie,Plant community,Grass,House,Facade,MAX IV Laboratory,@ BT PR, Jun 2016
+1697,Lund_00601,Building,Landmark,Medieval architecture,Architecture,Place of worship,Church,Facade,Cathedral,Classical architecture,City,Domkyrkoplatsen,a Mattias Nord, Jul 2016
+1706,Lund_02020,Property,House,Building,Architecture,Estate,Real estate,Home,Mansion,Roof,Residential area,Kulturen |,Kulturen |, Aug 2016
+1712,Lund_01613,Building,Town,Property,Human settlement,Architecture,Neighbourhood,City,Mixed-use,House,Facade,University Library,(NN TR o= Tal o], Oct 2016
+1715,Lund_01490,Property,Building,Architecture,Landmark,House,Estate,Wall,Castle,Mansion,Stately home,SONY DSC,Ismo Kelokaski, Jul 2016
+1736,Lund_01290,Garden,Botanical garden,Shrub,Lawn,Tree,Natural landscape,Flower,Plant,Spring,Botany,Botanical Garden,Krisztina Boldisn, Aug 2016
+1739,Lund_02304,Natural landscape,Grassland,Natural environment,Plain,Sky,Field,Pasture,Land lot,Grass,Prairie,L EENE,RCLEEL 0], Aug 2016
+1759,Lund_00859,Estate,Landmark,Building,Mansion,Palace,Architecture,Property,Stately home,Official residence,Classical architecture,[TV T,1] Matthias McAllis, Oct 2016
+1770,Lund_02869,Property,Building,Architecture,House,Town,Home,Real estate,Estate,Residential area,Sky,Kulturen 8,@ PP\, Jul 2016
+1776,Lund_00370,Building,Palace,Estate,Mansion,Architecture,Official residence,Stately home,Château,Presidential palace,House,A LG,& Victor Kalbskopf, Aug 2016
+1781,Lund_00158,Town,Building,Property,Street,Lane,Road,Architecture,House,Urban area,Neighbourhood,' (&1 EY T,' (&1 EY T, Dec 2016
+1782,Lund_01448,Building,Classical architecture,Landmark,Architecture,Palace,Mansion,Estate,Facade,House,Château,Lundagérd,@ Juca Felix Galino, Jul 2016
+1788,Lund_01359,Town,Building,Property,Mixed-use,Architecture,Neighbourhood,House,City,Real estate,Residential area,Park Inn by Radissor,l& Thom Seaman, Oct 2016
+1809,Lund_00053,Landmark,Architecture,Building,Town,Facade,City,Urban area,House,Tree,Sky,‘ (&1 EY T,‘ (&1 EY T, Dec 2016
+1813,Lund_02425,Roof,Residential area,Town,Neighbourhood,Urban area,City,Human settlement,Suburb,Building,Metropolitan area,LT ELLER BT,"g R oo,", May 2016
+1819,Lund_02647,Grassland,Natural landscape,Natural environment,Prairie,Plain,Sky,Steppe,Pasture,Grass,Ecoregion,Klosteréingshdjden,Klosteréingshdjden, Aug 2016
+1828,Lund_00765,Residential area,Property,Public space,Building,Daytime,Town,Architecture,Human settlement,City,Grass,BMC - Biomedical Ce,6 IR DL, Sep 2016
+1831,Lund_02722,Tree,Grass,Sky,Natural landscape,Natural environment,Pasture,Grass family,Woody plant,Land lot,Lawn,Fredentorps Begravr,6 IR DL, Sep 2016
+1833,Lund_02281,Factory,Industry,Building,Warehouse,Machine,Toolroom,Mass production,Hall,Interior design,Workshop,MAX IV Laboratory,@ EONE Y, Oct 2016
+1836,Lund_01770,Landmark,Architecture,Building,Sky,Medieval architecture,Church,Place of worship,Town,Facade,Cathedral,[T T o1 T T T,oL 1T ], Jul 2016
+1840,Lund_01306,Grass,Public space,Natural landscape,Walkway,Daytime,Tree,Road,Lawn,Land lot,Park,LRI EL Y T,5‘3.‘..@ LU G, May 2016
+1855,Lund_02224,Building,Architecture,Facade,Shopping mall,Commercial building,Company,Vehicle,City,Mixed-use,,- [I1ET T,Christoffer Norér, Jul 2016
+1859,Lund_00656,Medieval architecture,Landmark,Building,Architecture,Classical architecture,Historic site,Facade,Byzantine architecture,Place of worship,Church,Lund Cathedral,@ Andreas Schaller, May 2016
+1865,Lund_02461,Architecture,Building,Headquarters,Mixed-use,Corporate headquarters,Sky,Commercial building,Facade,Urban design,Project,MAX IV Laboratory,6 IR DL, Jun 2016
+1883,Lund_02910,House,Property,Building,Cottage,Tree,Home,Sky,Architecture,Botany,Estate,Ostra Torns Montess,g Mats Lund, Jul 2016
+1885,Lund_01861,Swan,Bird,Water bird,Pond,Bank,"Ducks, geese and swans",Waterway,Water resources,Waterfowl,Water,Stadsparken :,Mr.Roman Lak, Sep 2016
+1895,Lund_01679,Landmark,Building,Architecture,Winter,Property,Mansion,Classical architecture,Snow,Estate,Palace,Lundagérd {,Medar Simsek, Jan 2016
+1896,Lund_00841,Tree,Garden,Botany,Park,Botanical garden,Grass,City,Sky,Architecture,Tourism,Lundagérd,S Srdjan Krajnalic, May 2016
+1903,Lund_00316,Estate,Building,Landmark,Palace,Mansion,Classical architecture,Official residence,Architecture,Stately home,Château,Lundagérd,"@“,' Andrew Desmon", Mar 2016
+1904,Lund_02956,Bridge,Waterway,Canal,Nonbuilding structure,Concrete bridge,,,,,,N[ AT T T,P =], Dec 2016
+1905,Lund_00110,Sky,Transport,Town,Public space,Mode of transport,Urban area,Architecture,Tree,Iron,Asphalt,' (&1 EY T,' (&1 EY T, Dec 2016
+1907,Lund_01685,Steeple,Landmark,Roof,Architecture,Property,Church,Building,Sky,House,Spire,Kulturen |,Kulturen |, Aug 2016
+1909,Lund_00790,Medieval architecture,Architecture,Landmark,Building,Place of worship,Classical architecture,Cathedral,Facade,Gothic architecture,Church,OLYMPUS DIGITAL C,@ Mariusz Denkiew, May 2016
+1914,Lund_02069,Sky,Architecture,Building,Landmark,Town,Tree,City,Neighbourhood,Cloud,Castle,Lundagérd,Riccardo Patriarc, Jun 2016
+1926,Lund_01179,Building,Château,Estate,Stately home,Architecture,Mansion,Palace,Manor house,Historic house,Medieval architecture,Grand Hotel Lund,J Jason Chaikin, Oct 2016
+1930,Lund_01509,Garden,Botanical garden,Tree,Natural landscape,Plant,Botany,Park,Spring,Flower,Leaf,Stadsparken,Patrik Ganhagen, Sep 2016
+1932,Lund_00351,Classical architecture,Building,Landmark,Architecture,Palace,Mansion,Official residence,Stately home,Estate,Facade,Lundagérd,@ Jarek Kedzierski, Dec 2016
+1941,Lund_00359,Building,Landmark,Architecture,Palace,Classical architecture,Property,Mansion,Estate,House,Official residence,A  Alejandro Carrillc,A  Alejandro Carrillc, Aug 2016
+1942,Lund_03107,Highland,Geological phenomenon,Hill station,Water,Watercourse,Sky,Rural area,Grass,Tree,Landscape,Rinnebick Gorge,D Davide De Martir, Oct 2016
+1948,Lund_01639,Residential area,Building,Neighbourhood,Property,Town,Human settlement,Architecture,Metropolitan area,Urban area,Mixed-use,The More Hotel Lunc,@ Gabor Papp, Aug 2016
+1959,Lund_02308,Tree,Natural landscape,Nature,Grass,Woody plant,Nature reserve,Natural environment,Branch,Spring,Sky,Nobbeldvs mosse,Karl Magnus Adit, May 2016
+1961,Lund_00617,Building,Landmark,Town,Property,Neighbourhood,Architecture,City,Human settlement,Residential area,Urban area,AF Borgen AB ¢,EIE D1 (61, Aug 2016
+1968,Lund_01977,Town,City,Landmark,Human settlement,Public space,Architecture,Building,Urban area,Town square,Street,Lund Tourist Center,Lund Tourist Center, Dec 2016
+1974,Lund_00721,Estate,Building,Property,Mansion,Château,Palace,Castle,Stately home,Architecture,House,[T {,‘ John Eckerdal, May 2016
+1985,Lund_02770,House,Property,Building,Cottage,Tree,Home,Sky,Architecture,Botany,Estate,Ostra Torns Montess,g Mats Lund, Jul 2016
+1990,Lund_02228,Property,Grass,Transport,Residential area,Land lot,Public space,Tree,Architecture,Road,Neighbourhood,CircleK,Thanon Shamel, Aug 2016
+2000,Lund_01972,Steeple,Landmark,Building,Church,Spire,Architecture,Place of worship,Parish,Tower,Sky,[T G VT T BT,YR REERS L, Sep 2016
+2001,Lund_02934,Grass,Natural landscape,Lawn,Property,Walkway,Garden,Backyard,Yard,Grass family,Land lot,Ostratornskolan,= Anne-Lii Lindahl, Oct 2016
+2003,Lund_02870,Building,Estate,Mansion,Palace,Property,Classical architecture,Stately home,Architecture,Official residence,Manor house,Alejandro Carrillc,Alejandro Carrillc, Aug 2016
+2010,Lund_01924,Body of water,Natural landscape,Bank,Pond,Water resources,Nature,Natural environment,Water,Nature reserve,River,Stadsparken,jessica delgado, Aug 2016
+2011,Lund_01182,Building,Chapel,Property,Landmark,Church,Architecture,Place of worship,Parish,House,Brick,North cemetery,6 IR DL, Jul 2016
+2018,Lund_01777,Architecture,Building,Sky,Commercial building,Mixed-use,Real estate,City,Cloud,Vehicle,Car,Sigma Connectivity /,Birgit Pia Nghr, Aug 2016
+2021,Lund_00134,Holy places,Byzantine architecture,Architecture,Basilica,Place of worship,Building,Landmark,Church,Chapel,Medieval architecture,Ll e,@ Ismo Kelokaski, Jul 2016
+2031,Lund_02102,Property,Building,Architecture,Town,House,Facade,Real estate,Residential area,Tree,Home,Carglass®Lund ¢,LEOF S, Aug 2016
+2032,Lund_00428,Estate,Property,Building,Architecture,Stately home,Manor house,Tree,Grass,House,Château,University Library,A  Alejandro Carrillc, Aug 2016
+2035,Lund_00653,Estate,Property,Building,House,Mansion,Architecture,Tree,Grass,Palace,Château,Botanical Garden,Botanical Garden, Jul 2016
+2067,Lund_02231,Natural landscape,Garden,Grass,Tree,Green,Property,Lawn,Sky,Shrub,Land lot,Fredentorps Begravn,6 IR DL, Sep 2016
+2071,Lund_00982,Building,Palace,Estate,Landmark,Mansion,Architecture,House,Official residence,Château,Sky,Lundagérd 8,@ PP\, Jul 2016
+2082,Lund_01196,Town,Building,Property,Architecture,Mixed-use,Human settlement,House,Neighbourhood,City,Real estate,Botulfsplatsen,‘Q Thom Seaman, Oct 2016
+2084,Lund_02299,Motor vehicle,Road,Tree,Asphalt,Street,Plant,Thoroughfare,Building,Vehicle,Residential area,CircleK,e Thanon Shamel, Aug 2016
+2090,Lund_00455,Property,Building,Public space,Architecture,Estate,City,Plaza,Tree,Sky,Real estate,Lundagérd,“’ Adrian Popescu, Sep 2016
+2110,Lund_01852,Landmark,Medieval architecture,Architecture,Building,Classical architecture,Place of worship,Cathedral,Gothic architecture,Church,Urban area,Lund Cathedral,Copaceanu Cons, Sep 2016
+2112,Lund_03072,Natural landscape,Vegetation,Nature,Grassland,Natural environment,Sky,Land lot,Cloud,Nature reserve,Plain,Klosteréngshojden,:E‘J Fredrik Sjéberg, Jul 2016
+2123,Lund_00943,Building,Landmark,Property,Palace,Mansion,Architecture,Estate,House,Official residence,Presidential palace,Lundagérd o,M M Wrotniak, Jul 2016
+2131,Lund_01188,Public space,Sky,Building,Plaza,Town square,City,Architecture,Town,Human settlement,Estate,A  Alejandro Carrillc,A  Alejandro Carrillc, Aug 2016
+2140,Lund_00081,Town,Street,Neighbourhood,Cobblestone,Human settlement,Yellow,City,Building,Road,Urban area,‘ (&1 EY T,‘ (&1 EY T, Dec 2016
+2145,Lund_01758,Property,Building,House,Architecture,Medieval architecture,Estate,Sky,Tree,Château,Real estate,Kulturen,Frida Olsson, Jun 2016
+2162,Lund_00906,Landmark,Building,Estate,Architecture,Mansion,Sky,House,Tree,Historic site,City,John Eckerdal,John Eckerdal, May 2016
+2166,Lund_01390,Building,Classical architecture,Property,Architecture,Landmark,Mansion,Estate,Stately home,Real estate,House,Lundagérd,ﬂ Bnapgumup Tutos, Jun 2016
+2169,Lund_00712,Town,City,Human settlement,Public space,Town square,Building,Architecture,Plaza,Tourism,Mixed-use,Botulfsplatsen,‘Q Thom Seaman, Oct 2016
+2170,Lund_02053,Architecture,Landmark,Building,Sky,Steeple,Spire,Facade,Tourism,Church,City,Lund Cathedral,Q Joost van der Ga, Aug 2016
+2182,Lund_00353,Building,Landmark,Architecture,Property,Stately home,Estate,Medieval architecture,Château,Palace,Historic house,Lundagérd,@ Juca Felix Galino, Jul 2016
+2196,Lund_00526,Landmark,Estate,Mansion,Building,Property,Architecture,Official residence,Palace,House,Presidential palace,LG T T,@ EEICL Y, Jul 2016
+2201,Lund_00015,Building,Property,House,Architecture,Town,Home,Almshouse,Brick,Roof,Facade,‘ (&1 EY T,‘ (&1 EY T, Dec 2016
+2210,Lund_00673,Building,Landmark,Mansion,Estate,Palace,Architecture,Stately home,Official residence,Presidential palace,Plaza,"Light place, nice aro",‘; LEGENETELET, Jul 2016
+2216,Lund_01934,Body of water,Natural landscape,Pond,Water,Nature,Bank,Fish pond,Nature reserve,Water resources,Vegetation,Stadsparken,A  Alejandro Carrillc, Jun 2016
+2219,Lund_01778,Landmark,Architecture,Building,City,Medieval architecture,Metropolitan area,Facade,Sky,Place of worship,Cathedral,Lund Cathedral :,Albin Wilander, Jul 2016
+2231,Lund_03155,Sky,Green,Grassland,Cloud,Land lot,Pasture,Grass,Rural area,Farm,Plain,Rinnebick Gorge 2,Maria Tracz, Sep 2016
+2232,Lund_00156,Water,Town,Sky,City,Landmark,Reflection,Waterway,Human settlement,Evening,Public space,Lund,q} houzan suliman, Dec 2016
+2251,Lund_00857,Building,Property,Architecture,Town,Landmark,Mansion,Facade,House,Real estate,Apartment,26/6/2016 8,& saad al saifi, Jun 2016
+2254,Lund_00866,Garden,Botanical garden,Natural landscape,Lawn,Botany,Shrub,Plant,Landscaping,Estate,Grass,Botanical Garden,IM> Miklos Szakacs, Jul 2016
+2256,Lund_00484,Landmark,Building,Architecture,City,Tower,Town,Metropolitan area,Urban area,Facade,Sky,Domkyrkoplatsen,a Mattias Nord, Jul 2016
+2262,Lund_02783,Natural landscape,Atmospheric phenomenon,Fog,Land lot,Pasture,Natural environment,Grassland,Tree,Grass,Sky,|G AT,|G AT, Dec 2016
+2267,Lund_02757,Body of water,Water,Bank,Natural landscape,Water resources,Lake,Vegetation,Reservoir,Natural environment,Pond,Alexanders Golv & K,zg{ Bygg Alexander, Aug 2016
+2279,Lund_01605,Building,Landmark,Property,Town,Architecture,Neighbourhood,Residential area,Urban area,City,House,Lundagérd,“’ Adrian Popescu, Sep 2016
+2280,Lund_02100,Garden,Hedge,Shrub,Maze,Grass,Botany,Plant,Toy,Labyrinth,Botanical garden,Kulturen,Chris Maljanovsk, Jun 2016
+2282,Lund_02578,Water,Natural environment,Water resources,Sky,Ecoregion,Land lot,Plain,Grass,Landscape,Soil,Rabysjon och Raby s,g ) Ulrik Ivarsson, Sep 2016
+2299,Lund_01788,Estate,Building,Palace,Mansion,Classical architecture,Landmark,Architecture,Property,Château,Stately home,Lundagérd c,ahmed adnan, Jan 2016
+2304,Lund_01941,Urban area,Metropolitan area,City,Sky,Town,Human settlement,Cityscape,Photography,Building,Cloud,Elite Hotel Ideon,Renard Kutrzeba, Jul 2016
+2307,Lund_00626,Building,Estate,Classical architecture,Mansion,Palace,Architecture,Stately home,Official residence,Château,Presidential palace,Lundagérd,ﬂ Dimitri Claerbout, Sep 2016
+2322,Lund_01990,Landmark,Building,Estate,Mansion,Sky,Architecture,Palace,House,Tree,Stately home,Anna Welander T,Anna Welander T, Aug 2016
+2327,Lund_01019,Estate,Property,Building,Mansion,Palace,House,Real estate,Panorama,Photography,Stately home,. Andreas Schaller,. Andreas Schaller, May 2016
+2329,Lund_00792,Estate,Mansion,Building,Official residence,Palace,Property,Stately home,Manor house,Classical architecture,Presidential palace,Lundagérd,swarnendu chatt, Jun 2016
+2348,Lund_01344,Building,Classical architecture,Landmark,Architecture,Palace,Official residence,Sky,Facade,Mansion,Estate,Lundagérd,Michael Dobson, May 2016
+2350,Lund_02432,Water resources,Natural landscape,Natural environment,Water,Thermokarst,Watercourse,Riparian zone,Bank,Nature reserve,Wetland,Rinnebick Gorge 2,G; Emil Nilsson, Jun 2016
+2354,Lund_01058,Building,Classical architecture,Landmark,Architecture,Property,Mansion,Estate,House,Stately home,Facade,Lundagérd,ﬂ Bnapgumup Tutos, Jun 2016
+2366,Lund_02781,Sky,Cloud,Hill,Horizon,Grass,Meadow,Rural area,Atmosphere,Grassland,Urban area,Klosteréingshdjden,Klosteréingshdjden, Aug 2016
+2370,Lund_02356,Grassland,Natural landscape,Natural environment,Prairie,Pasture,Land lot,Plain,Meadow,Vegetation,Field,Klosteréingshdjden,T Toheed Q, Aug 2016
+2377,Lund_01308,Building,Landmark,Palace,Architecture,Estate,Classical architecture,Stately home,Mansion,Official residence,Presidential palace,Lundagérd,% Onga osborn G, Apr 2016
+2382,Lund_00680,Building,Architecture,Landmark,Property,Town,Facade,House,City,Medieval architecture,Urban area,Juridiska institutione,EEF S, Aug 2016
+2386,Lund_01251,Estate,Landmark,Building,Mansion,House,Sky,Architecture,Château,Stately home,Manor house,Stadsparken,Banepus Taxkof, Aug 2016
+2389,Lund_01697,Property,House,Building,Architecture,Estate,Real estate,Home,Mansion,Roof,Residential area,Kulturen |,Kulturen |, Aug 2016
+2394,Lund_02819,Estate,Building,Mansion,Landmark,Palace,Castle,Architecture,Château,Stately home,Official residence,Lundagérd,G) loanna Giannopo, Aug 2016
+2399,Lund_02324,Land lot,Grassland,Grass,Natural landscape,Natural environment,Sky,Grass family,Meadow,Farm,Field,CircleK,e Thanon Shamel, Aug 2016
+2400,Lund_00513,Estate,Building,Property,Mansion,Landmark,Stately home,Palace,Architecture,House,Official residence,[T T VT,@ Adrian Popescu, Sep 2016
+2407,Lund_02206,Property,Transport,Building,Architecture,Commercial building,Asphalt,Roof,House,,,MAX IV Laboratory,6 IR DL, Sep 2016
+2412,Lund_02747,Grassland,Shooting sport,Land lot,Shooting,Recreation,Clay pigeon shooting,Grass,Skeet shooting,Pasture,Lawn,Lunds Pistolklubb :,@ Jonas Ezzi, Jun 2016
+2424,Lund_01486,Garden,Botanical garden,Property,Natural landscape,Lawn,Grass,Landscape,Shrub,Landscaping,Botany,Botanical Garden,M @ Michael Sturaro, Aug 2016
+2426,Lund_01323,Landmark,Architecture,Sky,Building,Town,City,Urban area,Medieval architecture,Tower,Steeple,Lund C,( ;‘ Freetec Shen, Jul 2016
+2427,Lund_00066,Landmark,Building,Town,Architecture,Grass,Property,Tree,Urban area,Brick,Neighbourhood,‘ (&1 EY T,‘ (&1 EY T, Dec 2016
+2433,Lund_02614,Sport venue,Public space,Playground,Skatepark,Park,Recreation,Leisure,Asphalt,Road,City,Linero IP,.@ Martin Andersso, Jun 2016
+2438,Lund_00915,Building,Estate,Property,Mansion,Palace,Official residence,Architecture,Stately home,House,Manor house,Lundagérd,@ Juca Felix Galino, Jul 2016
+2440,Lund_01655,Building,Arch,House,Architecture,Chapel,Estate,Real estate,Brick,Place of worship,Home,Botanical Garden,f} sasan fallahi, Jul 2016
+2448,Lund_01013,Property,Building,Architecture,Medieval architecture,House,Roof,Estate,Château,Facade,Historic site,Kulturen |,Kulturen |, Aug 2016
+2453,Lund_00779,Building,Classical architecture,Estate,Palace,Mansion,Landmark,Official residence,Architecture,Stately home,Château,Lundagérd,% Onga osborn G, Apr 2016
+2455,Lund_02844,Classical architecture,Building,Landmark,Architecture,Mansion,Palace,Estate,Official residence,Facade,Stately home,Restaurang & Café S,Marie Olsson, Aug 2016
+2456,Lund_01620,Property,Estate,House,Natural landscape,Waterway,Cottage,Building,Manor house,Home,Real estate,Botanical Garden,Florent Santaniel, May 2016
+2466,Lund_02252,Building,Architecture,Facade,Commercial building,Sky,Company,Mixed-use,Vehicle,Car,Corporate headquarters,Malte Lewan,Malte Lewan, Aug 2016
+2467,Lund_00167,Landmark,Building,Architecture,Tree,Estate,College,Medieval architecture,Church,Stately home,Sky,‘ CeBpanuHa [lyHi,‘ CeBpanuHa [lyHi, Dec 2016
+2473,Lund_01985,Medieval architecture,Wall,Building,Architecture,Brick,Facade,Brickwork,Church,Historic site,House,,, Aug 2016
+2488,Lund_02363,Factory,Industry,Building,Electrical wiring,Machine,Electrical supply,,,,,MAX IV Laboratory,@ EONE Y, Oct 2016
+2492,Lund_01193,Medieval architecture,Architecture,Landmark,Building,Classical architecture,Historic site,Place of worship,Church,Byzantine architecture,Facade,Lund Cathedral,A  Alejandro Carrillc, Aug 2016
+2509,Lund_01526,Building,Architecture,Landmark,Medieval architecture,Sky,Place of worship,Cathedral,Church,Facade,Classical architecture,[T T o1 T T T,[T TR, Oct 2016
+2525,Lund_02202,Transport,Building,Vehicle,Facade,Architecture,Bicycle,Recreation,,,,Steven Vancoillie,Steven Vancoillie, Sep 2016
+2526,Lund_01757,Estate,Property,Mansion,Garden,House,Building,Grass,Home,Botany,Stately home,University Square,6 IR DL, Jul 2016
+2528,Lund_02334,Metropolitan area,Architecture,Tower block,City,Building,Urban area,Skyscraper,Daytime,Sky,Human settlement,LRI EL Y T,5‘3.‘..@ LU G, May 2016
+2539,Lund_01451,Estate,Property,Landmark,Mansion,Building,Architecture,Garden,Sky,House,Botany,Lundagard ¢,Lundagard ¢, Aug 2016
+2540,Lund_03187,Landmark,Architecture,Building,Winter,Sky,Town,City,Public space,Mansion,Palace,Lundagérd,Adrian Popescu, Sep 2016
+2547,Lund_02189,Body of water,Water resources,Natural landscape,Riparian zone,Stream,Nature,Bank,Watercourse,Waterway,Water,Rinnebick Gorge 2,C Cathrin Jung, Jul 2016
+2552,Lund_01885,Property,House,Building,Home,Town,Architecture,Neighbourhood,Estate,Historic house,Real estate,Kulturen,ﬁ Frida Olsson, Jun 2016
+2556,Lund_00899,Building,Medieval architecture,Property,Architecture,Church,Chapel,Brick,Brickwork,Parish,House,Klosterkyrkan ¢,& saad al saifi, Jun 2016
+2557,Lund_02550,Natural landscape,Pasture,Land lot,Vegetation,Natural environment,Nature reserve,Grassland,Tree,Grass,Meadow,Nobbelbvs mosse,Q Peter Nordensva, Sep 2016
+2561,Lund_01445,Property,Building,Estate,House,Architecture,Tree,Stately home,Sky,Grass,Manor house,University Library,A  Alejandro Carrillc, Aug 2016
+2563,Lund_01361,Classical architecture,Landmark,Architecture,Building,Facade,Palace,City,House,Tourist attraction,Château,Lundagérd,a Centar Prevencij:, Oct 2016
+2572,Lund_02031,Body of water,Natural landscape,Nature,Water resources,Pond,Bank,Reflection,Water,Lake,Natural environment,Ankdammen.,Ingegerd Karlsso, Oct 2016
+2580,Lund_00597,Estate,Mansion,Building,Property,Palace,Official residence,Landmark,Stately home,House,Manor house,Lundagérd,qls Amanda Brundin, Jul 2016
+2596,Lund_02904,Sky,Blue,Horizon,Cloud,Grass,Grassland,Tree,Land lot,Urban area,Rural area,Klosteréingshdjden,Klosteréingshdjden, Aug 2016
+2599,Lund_01077,Classical architecture,Building,Architecture,Landmark,Palace,Estate,Mansion,Official residence,Stately home,Facade,Lundagérd,% Onga osborn G, Apr 2016
+2619,Lund_01868,Landmark,Building,Architecture,Medieval architecture,Town,Classical architecture,Facade,Spire,Roof,Turret,Lund Cathedral,H> Hans Wilhelm He, Jun 2016
+2627,Lund_02034,Medieval architecture,Architecture,Landmark,Building,Classical architecture,Place of worship,Gothic architecture,Cathedral,Facade,Church,Domkyrkan i véntans,j‘;}) Ingegerd Karlsso, Oct 2016
+2629,Lund_02857,Building,Estate,Classical architecture,Landmark,Mansion,Official residence,Palace,Architecture,Presidential palace,Stately home,Lundagérd,Ibrahim Akkash, Sep 2016
+2632,Lund_00853,Garden,Natural landscape,Botanical garden,Lawn,Yard,Plant,Shrub,Groundcover,Flower,Landscaping,Botanic gardens at I,® From a Google U, Jul 2016
+2637,Lund_00347,Building,Landmark,Architecture,Medieval architecture,Place of worship,Sky,Church,Cathedral,Gothic architecture,Classical architecture,[T 8,. DIl, May 2016
+2644,Lund_01874,Property,Estate,Building,House,Home,Manor house,Mansion,Real estate,Grass,Almshouse,Kulturen,CamodJan, Aug 2016
+2671,Lund_01052,Building,Architecture,Church,Landmark,Place of worship,Medieval architecture,Parish,Grass,Estate,Cathedral,Lundagérd,@ Ibrahim Akkash, Sep 2016
+2680,Lund_00371,Landmark,Garden,Estate,Spring,Mansion,Botanical garden,Botany,Flower,Architecture,Palace,[T 8,. DIl, May 2016
+2692,Lund_00541,Building,Estate,Palace,Mansion,Property,Stately home,Château,House,Official residence,Architecture,Lundagérd,[ BRI TS, Sep 2016
+2706,Lund_03122,Road,Sky,Cloud,Highway,Asphalt,Lane,Daytime,Freeway,Infrastructure,Transport,Rinnebick Gorge 2,timor talash, Jun 2016
+2709,Lund_02264,Transport,Road,Sky,Architecture,Urban area,Infrastructure,City,Building,Cloud,Street,Biltema 3,EEF S, Sep 2016
+2710,Lund_01273,Architecture,Building,Medieval architecture,Landmark,Gothic architecture,Classical architecture,Place of worship,Cathedral,Church,Sky,Lundagérd,ﬂ Bnapgumup Tutos, Jun 2016
+2731,Lund_00864,Landmark,Classical architecture,Architecture,Building,Medieval architecture,Place of worship,Sky,Cathedral,Facade,Church,Lund Cathedral ¢,Py ), Jul 2016
+2740,Lund_01340,Property,Garden,House,Estate,Botany,Spring,Building,Home,Plant,Botanical garden,Botanical Garden,Olga Bachkala, Aug 2016
+2745,Lund_00344,Building,Estate,Property,Mansion,Stately home,Château,Manor house,Palace,Architecture,Historic house,Bantorget,Q Kim van Waarder, Aug 2016
+2760,Lund_00748,Building,Classical architecture,Landmark,Palace,Architecture,Mansion,Estate,Stately home,Official residence,Château,% Bnapumup Poma,% Bnapumup Poma, Nov 2016
+2762,Lund_01840,Landmark,Sky,Tower,Tree,Architecture,Observation tower,Building,Grass,Rural area,Estate,Lundagérd,a Centar Prevencij:, Oct 2016
+2772,Lund_02534,Sky,Cloud,Natural landscape,Nature,Tree,Vegetation,Daytime,Cumulus,Natural environment,Grass,Fredentorps Begravr,"¢ ;’&"" (o S W NV", Jul 2016
+2781,Lund_00358,Tree,Building,Estate,Grass,Sky,Architecture,Château,Stately home,Park,City,Lundagérd,@ Juca Felix Galino, Jul 2016
+2785,Lund_02804,Landmark,Building,Architecture,Town,Sky,City,Human settlement,Tower,Steeple,Medieval architecture,A LG,& Victor Kalbskopf, Aug 2016
+2786,Lund_00493,Medieval architecture,Landmark,Architecture,Building,Classical architecture,Place of worship,Church,Historic site,Sky,Facade,[T T o1 T T,.’IE‘” ALV, Sep 2016
+2788,Lund_01601,Building,Architecture,Landmark,Medieval architecture,Facade,Church,Place of worship,Steeple,Sky,Cathedral,LT T o1 T T T,sasan fallahi, Sep 2016
+2805,Lund_00722,Building,Landmark,Mansion,Estate,Palace,Architecture,Stately home,Official residence,Presidential palace,Plaza,[TV T,‘; LEGENETELET, Jul 2016

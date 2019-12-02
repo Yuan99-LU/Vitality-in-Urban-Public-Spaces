@@ -1,0 +1,11 @@
+﻿Languages	records	% of 478
+ENGLISH	465	97.280
+SPANISH	4	0.837
+CROATIAN	2	0.418
+GERMAN	2	0.418
+CZECH	1	0.209
+FRENCH	1	0.209
+POLISH	1	0.209
+PORTUGUESE	1	0.209
+UNSPECIFIED	1	0.209
+(0 records (0.000%) do not contain data in the field being analyzed.)

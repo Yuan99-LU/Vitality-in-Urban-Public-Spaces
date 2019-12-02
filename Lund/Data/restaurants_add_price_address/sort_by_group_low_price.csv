@@ -1,0 +1,14 @@
+review language,poi_name,poi_id,total review count,average rating score,price,address,postcode,category,review count by language,author contributions,author_votes,rating score,rating date,rating title,rating place,text
+[Danish],3,3,3,3,3,3,2,3,3,3,2,3,3,3,2,3
+[Dutch],1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+[English],183,183,183,183,183,183,148,183,183,180,166,183,183,183,136,183
+[French],4,4,4,4,4,4,3,4,4,4,4,4,4,4,3,4
+[German],6,6,6,6,6,6,2,6,6,6,6,6,6,6,3,6
+[Italian],3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+[Japanese],3,3,3,3,3,3,2,3,3,3,2,3,3,3,2,3
+[Norwegian],1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+[Polish],1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+[Portuguese],1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
+[Russian],6,6,6,6,6,6,4,6,6,6,5,6,6,6,5,6
+[Spanish],2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2
+[Swedish],240,240,240,240,240,240,182,240,240,239,207,240,240,240,164,240

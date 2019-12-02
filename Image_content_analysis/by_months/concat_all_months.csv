@@ -1,0 +1,316 @@
+,a,b,a,b,a,b,a,b,a,b,a,b,a,b,a,b,a,b,a,b,a,b,a,b
+0,Building,55.0,Building,18.0,Building,108.0,Building,110.0,Building,212.0,Building,234.0,Building,350.0,Building,342,Building,249.0,Building,124.0,Architecture,18.0,Building,28.0
+1,Architecture,53.0,Architecture,18.0,Architecture,104.0,Architecture,104.0,Architecture,202.0,Architecture,225.0,Architecture,324.0,Architecture,320,Architecture,233.0,Architecture,116.0,Building,18.0,Architecture,28.0
+2,Landmark,31.0,Landmark,15.0,Landmark,70.0,Landmark,69.0,Landmark,133.0,Landmark,144.0,Landmark,211.0,Landmark,203,Landmark,135.0,Landmark,83.0,Landmark,11.0,Landmark,19.0
+3,House,24.0,Tree,14.0,Estate,52.0,Sky,56.0,Sky,121.0,Estate,119.0,Estate,182.0,Estate,169,Estate,126.0,Sky,71.0,Sky,10.0,Sky,16.0
+4,Tree,23.0,Estate,10.0,House,50.0,Estate,51.0,Estate,106.0,Sky,113.0,Sky,179.0,Property,160,Property,111.0,Tree,65.0,Facade,9.0,Tree,16.0
+5,City,22.0,Mansion,10.0,Sky,48.0,Tree,50.0,Tree,105.0,House,106.0,Property,164.0,Sky,149,Sky,109.0,Estate,61.0,House,9.0,Town,14.0
+6,Property,21.0,Sky,9.0,City,40.0,House,44.0,House,79.0,Property,99.0,House,157.0,House,146,House,100.0,Palace,46.0,Natural landscape,9.0,Medieval architecture,12.0
+7,Medieval architecture,18.0,Natural landscape,8.0,Palace,38.0,Property,41.0,City,74.0,Palace,91.0,Tree,143.0,Mansion,126,Mansion,94.0,Property,45.0,Water,8.0,Church,11.0
+8,Sky,17.0,Palace,8.0,Property,38.0,City,37.0,Grass,72.0,Mansion,91.0,Mansion,134.0,Tree,113,Palace,87.0,Mansion,45.0,Classical architecture,7.0,City,11.0
+9,Facade,17.0,House,8.0,Mansion,36.0,Grass,36.0,Natural landscape,69.0,Tree,89.0,Palace,119.0,Palace,113,Stately home,80.0,House,44.0,River,7.0,Urban area,11.0
+10,Town,16.0,Grass,8.0,Facade,36.0,Facade,35.0,Mansion,68.0,Facade,87.0,Facade,115.0,City,109,Tree,77.0,Classical architecture,37.0,Estate,7.0,Facade,10.0
+11,Estate,15.0,Classical architecture,7.0,Tree,34.0,Stately home,35.0,Palace,66.0,Classical architecture,71.0,City,112.0,Facade,100,City,74.0,Stately home,36.0,Palace,7.0,House,9.0
+12,Palace,13.0,Natural environment,7.0,Classical architecture,33.0,Palace,33.0,Property,65.0,Grass,69.0,Stately home,84.0,Stately home,96,Facade,67.0,Town,36.0,Nature,6.0,Place of worship,6.0
+13,Mansion,13.0,Stately home,7.0,Town,29.0,Mansion,33.0,Garden,52.0,Stately home,63.0,Grass,83.0,Classical architecture,92,Classical architecture,57.0,Natural landscape,34.0,Water resources,6.0,Cathedral,6.0
+14,Stately home,13.0,Facade,7.0,Stately home,25.0,Classical architecture,31.0,Spring,51.0,City,63.0,Town,83.0,Town,87,Grass,55.0,Grass,33.0,Waterway,6.0,Grass,6.0
+15,Classical architecture,12.0,Water,6.0,Medieval architecture,18.0,Natural landscape,23.0,Stately home,49.0,Ch?teau,56.0,Classical architecture,83.0,Medieval architecture,77,Town,54.0,Medieval architecture,32.0,Medieval architecture,6.0,Property,6.0
+16,Real estate,9.0,City,6.0,Ch?teau,17.0,Medieval architecture,23.0,Water,49.0,Town,53.0,Natural landscape,69.0,Church,65,Medieval architecture,51.0,Facade,31.0,Tree,6.0,Estate,5.0
+17,Home,8.0,Official residence,6.0,Grass,13.0,Town,23.0,Botany,48.0,Official residence,50.0,Medieval architecture,67.0,Official residence,63,Ch?teau,47.0,City,29.0,Watercourse,6.0,Human settlement,5.0
+18,Place of worship,8.0,Wetland,5.0,Winter,11.0,Ch?teau,20.0,Facade,47.0,Natural landscape,49.0,Official residence,62.0,Ch?teau,62,Official residence,46.0,Official residence,26.0,Body of water,5.0,Spire,5.0
+19,Urban area,7.0,Land lot,4.0,Church,11.0,Church,18.0,Medieval architecture,46.0,Medieval architecture,48.0,Ch?teau,60.0,Grass,62,Church,45.0,Church,24.0,Mansion,5.0,Neighbourhood,5.0
+20,Human settlement,7.0,Town,4.0,Official residence,10.0,Place of worship,17.0,Natural environment,46.0,Water,43.0,Church,57.0,Natural landscape,51,Place of worship,43.0,Ch?teau,24.0,Church,5.0,Classical architecture,4.0
+21,Natural landscape,7.0,Road,4.0,Urban area,10.0,Water,17.0,Town,46.0,Church,38.0,Water,55.0,Human settlement,42,Natural landscape,33.0,Water,23.0,Stream,5.0,Brick,4.0
+22,Land lot,6.0,Property,4.0,Home,9.0,Land lot,16.0,Plant,40.0,Natural environment,35.0,Garden,54.0,Place of worship,41,Cathedral,31.0,Leaf,21.0,Place of worship,5.0,Steeple,4.0
+23,Grass,6.0,Pasture,4.0,Residential area,9.0,Official residence,16.0,Church,39.0,Place of worship,32.0,Botany,54.0,Home,39,Human settlement,30.0,Nature,21.0,Bank,4.0,Grassland,3.0
+24,Water,6.0,Rural area,3.0,Neighbourhood,9.0,Cathedral,15.0,Place of worship,36.0,Garden,29.0,Place of worship,54.0,Manor house,39,Water,29.0,Cathedral,18.0,Grass,4.0,Natural environment,3.0
+25,Winter,6.0,Waterway,3.0,Snow,9.0,Natural environment,13.0,Public space,35.0,Botany,29.0,Residential area,45.0,Water,38,Home,24.0,Natural environment,17.0,City,4.0,Waterway,3.0
+26,Church,6.0,Winter,3.0,Historic house,8.0,Human settlement,12.0,Classical architecture,35.0,Grassland,28.0,Natural environment,45.0,Urban area,37,Historic site,23.0,Place of worship,17.0,Stately home,4.0,Road,3.0
+27,Rural area,6.0,Cloud,3.0,Cathedral,8.0,Spring,11.0,Human settlement,32.0,Cathedral,27.0,Home,45.0,Cathedral,36,Public space,22.0,Garden,16.0,Wall,4.0,Tower,3.0
+28,Ch?teau,6.0,Ch?teau,2.0,Place of worship,8.0,Road,11.0,Ch?teau,32.0,Nature,26.0,Human settlement,44.0,Residential area,32,Neighbourhood,21.0,Neighbourhood,15.0,Natural environment,3.0,Street,3.0
+29,Public space,5.0,Atmospheric phenomenon,2.0,Public space,8.0,Bank,11.0,Grassland,31.0,Real estate,25.0,Cathedral,42.0,Real estate,31,Tower,19.0,Bank,15.0,Property,3.0,Historic site,3.0
+30,Tourism,5.0,Field,2.0,Manor house,7.0,Urban area,11.0,Nature,29.0,Cloud,25.0,Neighbourhood,42.0,Garden,31,Real estate,19.0,Urban area,14.0,Ch?teau,3.0,Natural landscape,3.0
+31,Historic site,5.0,Place of worship,2.0,Spire,7.0,Real estate,10.0,Official residence,28.0,Water resources,24.0,Real estate,40.0,Botany,31,Manor house,19.0,Botany,14.0,Official residence,3.0,Water,3.0
+32,Cathedral,5.0,River,2.0,Spring,7.0,Residential area,10.0,Cathedral,28.0,Vegetation,24.0,Cloud,35.0,Land lot,29,Natural environment,19.0,Human settlement,14.0,Town,3.0,Gothic architecture,3.0
+33,Neighbourhood,5.0,Bank,2.0,Mixed-use,6.0,Grassland,10.0,Bank,28.0,Park,22.0,Public space,34.0,Public space,29,Botany,18.0,Spire,13.0,Plant,3.0,Public space,3.0
+34,Manor house,4.0,Plain,2.0,Street,6.0,Plain,9.0,Home,27.0,Land lot,22.0,Land lot,34.0,Natural environment,29,Urban area,18.0,Public space,13.0,Historic site,2.0,Park,3.0
+35,Grassland,4.0,Lane,2.0,Courthouse,5.0,Plant,8.0,Water resources,26.0,Manor house,22.0,Nature,33.0,Neighbourhood,27,Cloud,17.0,Autumn,12.0,Tower,2.0,Field,2.0
+36,Wall,4.0,Neighbourhood,2.0,Human settlement,5.0,Waterway,8.0,Flower,26.0,River,21.0,Nature reserve,32.0,Steeple,26,Garden,16.0,Wilderness,11.0,Lawn,2.0,Landscape,2.0
+37,Pasture,4.0,Landscape,2.0,Photography,5.0,Roof,8.0,River,23.0,Bank,21.0,Urban area,32.0,Botanical garden,24,Plant,16.0,Vegetation,11.0,Nature reserve,2.0,Atmospheric phenomenon,2.0
+38,Mixed-use,4.0,Human settlement,2.0,Transport,5.0,Home,8.0,Botanical garden,23.0,Home,20.0,Vegetation,30.0,Plant,24,Water resources,15.0,Waterway,11.0,Geological phenomenon,2.0,Stately home,2.0
+39,Snow,4.0,Parish,2.0,Steeple,5.0,Historic site,8.0,Residential area,23.0,Nature reserve,19.0,Botanical garden,30.0,Lawn,24,Grassland,14.0,Nature reserve,11.0,Land lot,2.0,Wall,2.0
+40,Bank,4.0,Medieval architecture,2.0,Tourist attraction,5.0,Manor house,8.0,Park,22.0,Human settlement,18.0,Manor house,30.0,Grassland,24,Nature,14.0,Residential area,11.0,Cloud,2.0,Manor house,2.0
+41,Natural environment,4.0,Church,2.0,Real estate,5.0,Street,7.0,Pasture,22.0,Lawn,18.0,Park,29.0,Street,23,Land lot,14.0,Steeple,10.0,Stream bed,2.0,Pasture,2.0
+42,Landscape,3.0,Morning,2.0,Gothic architecture,5.0,Public space,7.0,Waterway,22.0,Pond,17.0,Plant,27.0,Historic site,22,Residential area,13.0,Daytime,10.0,Roof,2.0,Line,2.0
+43,Dome,3.0,Nature reserve,2.0,Castle,5.0,Town square,7.0,Urban area,21.0,Neighbourhood,17.0,Water resources,26.0,Cloud,22,Wall,12.0,Manor house,10.0,Gothic architecture,2.0,Home,2.0
+44,Leisure,3.0,Grassland,2.0,Water,5.0,Gothic architecture,7.0,Green,21.0,Historic site,17.0,Grassland,26.0,Roof,22,Bank,12.0,Cloud,10.0,Cathedral,2.0,Ruins,2.0
+45,Farm,3.0,Street,2.0,Monument,4.0,Body of water,7.0,Vegetation,21.0,Public space,17.0,Steeple,25.0,Nature,19,Vegetation,12.0,Water resources,9.0,Steeple,2.0,Soil,2.0
+46,Cloud,3.0,Column,1.0,Daytime,4.0,Water resources,7.0,Nature reserve,20.0,Body of water,16.0,Lawn,25.0,Rural area,19,Lawn,12.0,Watercourse,9.0,Wilderness,2.0,Asphalt,2.0
+47,Gothic architecture,3.0,Floodplain,1.0,Plaza,4.0,Steeple,7.0,Neighbourhood,20.0,Recreation,15.0,Tower,24.0,Vegetation,19,Pasture,11.0,Botanical garden,9.0,Landscape,1.0,Ch?teau,2.0
+48,Lighting,3.0,Wilderness,1.0,Freezing,4.0,Field,7.0,Plaza,18.0,Botanical garden,15.0,Bank,23.0,Water resources,18,Nature reserve,11.0,Tower,9.0,Wetland,1.0,Garden,2.0
+49,Cottage,3.0,Infrastructure,1.0,Almshouse,4.0,River,6.0,Body of water,18.0,Pasture,15.0,Metropolitan area,23.0,Nature reserve,18,Castle,10.0,Park,8.0,Garden,1.0,Roof,2.0
+50,Spire,3.0,Water resources,1.0,Natural landscape,4.0,Castle,6.0,Tourism,17.0,Plant,15.0,Road,20.0,Presidential palace,17,Botanical garden,10.0,Gothic architecture,8.0,Door,1.0,Mixed-use,2.0
+51,Night,3.0,Monument,1.0,Sport venue,4.0,Botany,6.0,Real estate,17.0,Sport venue,14.0,Rural area,20.0,Pasture,16,Green,10.0,Body of water,8.0,Human settlement,1.0,Castle,2.0
+52,Official residence,3.0,Art,1.0,Town square,4.0,Rural area,6.0,Land lot,17.0,Green,14.0,Historic site,20.0,Vehicle,16,Body of water,10.0,Home,8.0,Grass family,1.0,Land lot,2.0
+53,Residential area,3.0,Water feature,1.0,Brick,3.0,Nature,6.0,Steeple,16.0,Residential area,13.0,Presidential palace,19.0,Bank,16,Mixed-use,10.0,Land lot,7.0,Window,1.0,Woody plant,1.0
+54,Park,3.0,Fountain,1.0,Landscape,3.0,Pasture,6.0,Lawn,16.0,Vehicle,13.0,Pond,18.0,Castle,16,Waterway,10.0,Plant,7.0,Courthouse,1.0,Urban design,1.0
+55,Freezing,3.0,Manor house,1.0,Tower,3.0,Sport venue,6.0,Mixed-use,15.0,Presidential palace,13.0,Roof,17.0,Metropolitan area,15,Town square,9.0,Real estate,7.0,Marsh,1.0,Parish,1.0
+56,Nature reserve,3.0,Marsh,1.0,Vehicle,3.0,Garden,5.0,Fountain,15.0,Castle,13.0,River,16.0,Road,15,Plain,9.0,Road,7.0,Public space,1.0,Bench,1.0
+57,Roof,3.0,Metropolitan area,1.0,Historic site,3.0,Mountain,5.0,Town square,15.0,Meadow,12.0,Pasture,16.0,Plaza,15,Plaza,9.0,Lawn,7.0,Vegetation,1.0,Palace,1.0
+58,Street,3.0,Plant,1.0,Flooring,3.0,Spire,5.0,Historic site,15.0,Plaza,12.0,Body of water,15.0,Landscape,14,Gothic architecture,9.0,Presidential palace,7.0,Urban area,1.0,Yard,1.0
+59,Metropolitan area,3.0,Vehicle,1.0,Floor,3.0,Watercourse,5.0,Meadow,15.0,Wall,11.0,Aerial photography,15.0,Town square,14,Transport,9.0,River,7.0,Residential area,1.0,Furniture,1.0
+60,Vehicle,2.0,Spire,1.0,Car,3.0,Pond,5.0,Watercourse,14.0,Urban area,10.0,Watercourse,14.0,Waterway,14,Historic house,9.0,Brick,6.0,Neighbourhood,1.0,Rural area,1.0
+61,Leisure centre,2.0,Historic house,1.0,Physical fitness,3.0,Cloud,5.0,Road,14.0,Field,10.0,Urban design,14.0,Tower,14,Fountain,9.0,Landscape,6.0,Pasture,1.0,Concrete,1.0
+62,Baptistery,2.0,Fen,1.0,Gym,3.0,Daytime,5.0,Street,14.0,Road,10.0,Mixed-use,14.0,Field,14,Parish,8.0,Mixed-use,6.0,Botanical garden,1.0,Reflection,1.0
+63,Vacation,2.0,Asphalt,1.0,Bank,3.0,Neighbourhood,5.0,Landscape,13.0,Leisure,10.0,Bird's-eye view,14.0,River,14,Steeple,8.0,Plaza,6.0,Hill,1.0,Evening,1.0
+64,Plaza,2.0,Memorial,1.0,Roof,3.0,Plaza,5.0,Daytime,13.0,Tower,10.0,Suburb,14.0,Body of water,13,Tourism,8.0,Town square,6.0,Red,1.0,Headquarters,1.0
+65,Byzantine architecture,2.0,Transport,1.0,Room,3.0,Grass family,5.0,Field,13.0,Steeple,9.0,Shrub,13.0,Plain,13,Daytime,8.0,Reflection,6.0,Rural area,1.0,Company,1.0
+66,Flooring,2.0,Park,1.0,Natural environment,3.0,Meadow,4.0,Castle,12.0,Transport,9.0,Vehicle,13.0,Fountain,12,Vehicle,8.0,Fountain,6.0,Spire,1.0,Cottage,1.0
+67,Campus,2.0,Residential area,1.0,Metropolitan area,3.0,Lawn,4.0,Gothic architecture,12.0,Tourism,9.0,Waterway,13.0,Landscaping,11,Reflection,8.0,Geological phenomenon,5.0,Castle,1.0,State park,1.0
+68,Table,2.0,Evening,1.0,River,3.0,Stadium,4.0,Pond,12.0,Prairie,9.0,Meadow,13.0,Mixed-use,11,Road,7.0,Wall,5.0,Spring,1.0,Plain,1.0
+69,Water resources,2.0,Trail,1.0,Rural area,2.0,Tourist attraction,4.0,Manor house,11.0,Rural area,9.0,Transport,12.0,Park,11,Water feature,7.0,Historic site,5.0,Arroyo,1.0,Corporate headquarters,1.0
+70,Travel,2.0,Botany,1.0,Hardwood,2.0,Commercial building,4.0,Water feature,11.0,Fountain,9.0,Historic house,12.0,Pond,11,Pond,7.0,Street,5.0,Home,1.0,Lane,1.0
+71,Abbey,2.0,Reflection,1.0,College,2.0,Transport,4.0,Reflecting pool,11.0,Competition event,9.0,Plain,12.0,Wall,11,Spire,7.0,Rural area,5.0,Plaza,1.0,Photography,1.0
+72,Geological phenomenon,2.0,Car,1.0,Commercial building,2.0,Reflection,4.0,Roof,11.0,Tourist attraction,9.0,Landscape,12.0,Spire,11,Street,7.0,Pond,5.0,Reflection,1.0,Almshouse,1.0
+73,Meadow,2.0,Castle,1.0,Tourism,2.0,Botanical garden,4.0,Shrub,11.0,Roof,8.0,Leisure,11.0,Historic house,10,Commercial building,6.0,Pasture,4.0,Column,1.0,Chapel,1.0
+74,Spring,2.0,Chapel,1.0,Wall,2.0,Park,4.0,Metropolitan area,11.0,Spring,8.0,Sport venue,11.0,Brick,10,Landscape,6.0,Tourist attraction,4.0,Botany,1.0,Table,1.0
+75,Field,2.0,Botanical garden,1.0,Aerial photography,2.0,Nature reserve,3.0,Reflection,11.0,Town square,8.0,Landscaping,11.0,Meadow,10,Park,6.0,Photography,4.0,Street,1.0,Mansion,1.0
+76,College,2.0,Fence,1.0,Monochrome,2.0,Courthouse,3.0,Tower,10.0,Watercourse,8.0,Courthouse,11.0,Grass family,9,Roof,6.0,Grassland,4.0,Tourism,1.0,Iron,1.0
+77,Body of water,2.0,Statue,1.0,Fence,2.0,Tower,3.0,Plain,10.0,Reflection,8.0,Tourism,11.0,Farm,9,River,6.0,Woody plant,4.0,Town square,1.0,Real estate,1.0
+78,Room,2.0,Green,1.0,Seat of local government,2.0,Campus,3.0,Spire,10.0,Daytime,8.0,Reflection,10.0,Water feature,9,Presidential palace,6.0,Castle,4.0,Cottage,1.0,Outdoor bench,1.0
+79,Ditch,2.0,Horizon,1.0,Nature,2.0,Wilderness,3.0,Cloud,9.0,Plain,7.0,Street,10.0,Commercial building,9,Sport venue,6.0,Tourism,4.0,Canal,1.0,Shed,1.0
+80,Castle,2.0,Plaza,1.0,Basilica,2.0,Prairie,3.0,Transport,9.0,Stadium,7.0,Daytime,10.0,Spring,9,Leaf,5.0,Arch,4.0,,,Bridge,1.0
+81,Steeple,2.0,Steeple,1.0,Infrastructure,2.0,Parish,3.0,Rural area,8.0,Reflecting pool,7.0,Field,10.0,Cottage,9,Watercourse,5.0,Water feature,4.0,,,Spring,1.0
+82,Town square,2.0,Sculpture,1.0,Window,2.0,Sports,3.0,Prairie,8.0,Shrub,7.0,Grass family,10.0,Tourism,9,Monument,5.0,Factory,4.0,,,Horizon,1.0
+83,Shed,2.0,Freezing,1.0,Bird's-eye view,2.0,Presidential palace,3.0,Asphalt,7.0,Team sport,7.0,Downtown,10.0,Transport,9,Wilderness,5.0,Industry,3.0,,,Water feature,1.0
+84,Chapel,2.0,Watercourse,1.0,Body of water,2.0,Green,3.0,Historic house,7.0,Asphalt,6.0,Green,9.0,Tourist attraction,8,Bicycle,5.0,Reflecting pool,3.0,,,Town square,1.0
+85,Sport venue,2.0,Urban area,1.0,Apartment,2.0,Infrastructure,3.0,Walkway,7.0,Historic house,6.0,Yard,9.0,Downtown,7,Rural area,5.0,Floor,3.0,,,Recreation,1.0
+86,Interior design,2.0,Reflecting pool,1.0,Plant,2.0,Player,3.0,Leaf,6.0,Waterway,6.0,Cottage,9.0,Flower,7,Tourist attraction,5.0,Morning,3.0,,,Mode of transport,1.0
+87,Pedestrian,2.0,Home,1.0,Road,2.0,Soil,3.0,Presidential palace,6.0,Courthouse,6.0,Freshwater marsh,9.0,Thoroughfare,7,Statue,4.0,Cobblestone,3.0,,,Cobblestone,1.0
+88,Reflection,1.0,Thoroughfare,1.0,Presidential palace,2.0,Reservoir,3.0,Vehicle,6.0,Spire,6.0,Plaza,9.0,Reflecting pool,7,Car,4.0,Machine,3.0,,,Concrete bridge,1.0
+89,Leaf,1.0,Garden,1.0,Black-and-white,2.0,Team sport,3.0,Woody plant,6.0,Team,6.0,Castle,9.0,Green,7,Memorial,4.0,Lake,3.0,,,Plant,1.0
+90,Fen,1.0,Canal,1.0,Cloud,2.0,Line,3.0,Lake,6.0,Water feature,6.0,Marsh,9.0,Shrub,7,Field,4.0,Walkway,3.0,,,Circle,1.0
+91,Car,1.0,,,Waterway,2.0,Farm,3.0,Grass family,6.0,Landscape,6.0,Spire,9.0,Arch,7,Grass family,4.0,Thoroughfare,3.0,,,Commercial building,1.0
+92,Plant,1.0,,,Land lot,1.0,Bus stop,2.0,Landscaping,6.0,Cottage,5.0,Fountain,9.0,Campus,6,Reflecting pool,4.0,Slope,2.0,,,Fog,1.0
+93,Weightlifting machine,1.0,,,Lake,1.0,Trail,2.0,Marsh,6.0,Car,5.0,Spring,9.0,Gothic architecture,6,Riparian zone,4.0,History,2.0,,,Daytime,1.0
+94,Fence,1.0,,,Exercise machine,1.0,Column,2.0,Horizon,5.0,Gothic architecture,5.0,Chapel,8.0,Sport venue,6,Stream,4.0,Dirt road,2.0,,,Aerial photography,1.0
+95,Memorial,1.0,,,Sand,1.0,Fen,2.0,Cottage,5.0,Games,5.0,Town square,8.0,Woody plant,6,Metropolitan area,4.0,Highland,2.0,,,Transport,1.0
+96,Line,1.0,,,Gasoline,1.0,Soccer-specific stadium,2.0,Yellow,5.0,Player,5.0,Biome,8.0,Watercourse,6,Courthouse,4.0,Vehicle,2.0,,,Residential area,1.0
+97,Thoroughfare,1.0,,,Metropolis,1.0,Thoroughfare,2.0,Reservoir,5.0,Street,5.0,Wall,8.0,Daytime,5,Interior design,4.0,Yard,2.0,,,College,1.0
+98,Log cabin,1.0,,,Frost,1.0,Glass,2.0,Ecoregion,5.0,Seat of local government,5.0,Gothic architecture,8.0,Suburb,5,Farm,3.0,Hill,2.0,,,Bird's-eye view,1.0
+99,Brick,1.0,,,Dome,1.0,Vegetation,2.0,Wetland,5.0,Arch,5.0,Morning,8.0,Courthouse,5,Meadow,3.0,Stream,2.0,,,Yellow,1.0
+100,Dusk,1.0,,,Memorial,1.0,Urban design,2.0,Canal,4.0,Woody plant,4.0,Car,8.0,Pedestrian,5,Arch,3.0,Riparian zone,2.0,,,Nonbuilding structure,1.0
+101,Tourist attraction,1.0,,,Suburb,1.0,Monument,2.0,Steppe,4.0,Grass family,4.0,Wilderness,7.0,Reflection,5,Brick,3.0,Bird's-eye view,2.0,,,Official residence,1.0
+102,Outhouse,1.0,,,Statue,1.0,Vehicle,2.0,Room,4.0,Monument,4.0,Recreation,7.0,Asphalt,5,Temple,3.0,Plain,2.0,,,Canal,1.0
+103,Grass family,1.0,,,Tournament,1.0,Woody plant,2.0,Bovine,4.0,Mixed-use,4.0,Water feature,7.0,Almshouse,5,Photography,3.0,Suburb,2.0,,,,
+104,Vegetation,1.0,,,Stream,1.0,Photography,2.0,Morning,4.0,Yard,4.0,Wetland,7.0,Prairie,4,Almshouse,3.0,Fisheye lens,2.0,,,,
+105,Gym,1.0,,,Exercise,1.0,Ball game,2.0,Car,4.0,Column,4.0,Horizon,7.0,Hill,4,Houseplant,3.0,Loch,2.0,,,,
+106,Frost,1.0,,,Marsh,1.0,Ancient history,2.0,Tower block,4.0,Urban design,4.0,Reflecting pool,7.0,Harbor,4,Signage,3.0,Aerial photography,2.0,,,,
+107,Shack,1.0,,,Race track,1.0,Mixed-use,2.0,Campus,4.0,Event,4.0,Riparian zone,6.0,Car,4,National historic landmark,3.0,Meadow,2.0,,,,
+108,Road,1.0,,,Thoroughfare,1.0,Shade,2.0,Infrastructure,4.0,Fun,4.0,Tourist attraction,6.0,Apartment,4,Ceiling,3.0,Biome,2.0,,,,
+109,Lawn,1.0,,,Freshwater marsh,1.0,Team,2.0,Fen,4.0,Sports,4.0,Brick,6.0,Aerial photography,4,Room,3.0,Window,2.0,,,,
+110,Woody plant,1.0,,,Fen,1.0,College,2.0,Gas,4.0,Riparian zone,4.0,Monument,6.0,Evening,4,Recreation,3.0,Flooring,2.0,,,,
+111,Suburb,1.0,,,Campus,1.0,Fast food restaurant,2.0,Grazing,4.0,Summer,3.0,Fen,6.0,Hay,4,Asphalt,3.0,Interior design,2.0,,,,
+112,Watercourse,1.0,,,Pedestrian,1.0,Business,2.0,Biome,4.0,Grazing,3.0,Commercial building,6.0,Statue,4,Furniture,3.0,Metropolitan area,2.0,,,,
+113,Sports,1.0,,,Watercourse,1.0,Freshwater marsh,2.0,Plant community,4.0,Outdoor play equipment,3.0,Lake,6.0,Winter,4,Restaurant,3.0,Rock,2.0,,,,
+114,Furniture,1.0,,,Interior design,1.0,Courtyard,2.0,Condominium,4.0,Parish,3.0,Arch,6.0,Marina,4,Prairie,3.0,Apartment,2.0,,,,
+115,Branch,1.0,,,Signage,1.0,Metropolitan area,2.0,Road surface,4.0,Ceiling,3.0,College,6.0,Photography,4,Lane,3.0,Hall,2.0,,,,
+116,Marsh,1.0,,,Nature reserve,1.0,Baseball park,2.0,Farm,4.0,Pole,3.0,Prairie,5.0,Recreation,4,Reservoir,3.0,Grass family,2.0,,,,
+117,Weights,1.0,,,Pond,1.0,Lane,2.0,Lane,4.0,Plant community,3.0,Flower,5.0,Urban design,4,Hill,2.0,Winter,1.0,,,,
+118,Hill,1.0,,,Water resources,1.0,Historic house,2.0,Filling station,3.0,Corporate headquarters,3.0,Fun,4.0,Night,4,Cottage,2.0,Compact car,1.0,,,,
+119,Parish,1.0,,,Siding,1.0,Baseball field,2.0,Suburb,3.0,Metropolitan area,3.0,Almshouse,4.0,Atmospheric phenomenon,4,Campus,2.0,Ditch,1.0,,,,
+120,Arch,1.0,,,Treadmill,1.0,Fast food,2.0,Soil,3.0,Inflatable,3.0,Swimming pool,4.0,Retail,4,Goal,2.0,Snow,1.0,,,,
+121,Holy places,1.0,,,Brickwork,1.0,Aerial photography,2.0,Recreation,3.0,Flower,3.0,Stadium,4.0,Monument,4,Net,2.0,Signage,1.0,,,,
+122,Cobblestone,1.0,,,Wood flooring,1.0,Blossom,1.0,Mustard plant,3.0,Turret,3.0,Outdoor play equipment,4.0,College,4,Corporate headquarters,2.0,Trade,1.0,,,,
+123,Listed building,1.0,,,Team sport,1.0,Apartment,1.0,Stream,3.0,Campus,3.0,Playground,4.0,Room,4,Fortification,2.0,Picket fence,1.0,,,,
+124,Tennis court,1.0,,,Ball game,1.0,Restaurant,1.0,Courthouse,3.0,Statue,3.0,Wildlife,4.0,Wilderness,4,Infrastructure,2.0,Transport,1.0,,,,
+125,Winter storm,1.0,,,Weight training,1.0,Competition event,1.0,Branch,3.0,Brick,3.0,Metropolis,3.0,Horizon,4,Woody plant,2.0,Arroyo,1.0,,,,
+126,Lake,1.0,,,Competition event,1.0,Chapel,1.0,Signage,3.0,Farm,3.0,Fish pond,3.0,Dock,3,Brickwork,2.0,Blue,1.0,,,,
+127,Aisle,1.0,,,Futsal,1.0,Community centre,1.0,Tourist attraction,3.0,Lake,3.0,Fortification,3.0,Cobblestone,3,Soil,2.0,Engineering,1.0,,,,
+128,Recreation,1.0,,,Ecoregion,1.0,Memorial,1.0,Rapeseed,3.0,Atmospheric phenomenon,3.0,Net,3.0,Reservoir,3,Bovine,2.0,Freezing,1.0,,,,
+129,Strength training,1.0,,,Sports,1.0,Cherry blossom,1.0,Thoroughfare,3.0,Commercial building,3.0,Thoroughfare,3.0,Ecoregion,3,Rock,2.0,Seat of local government,1.0,,,,
+130,Water feature,1.0,,,Salt marsh,1.0,Football,1.0,Pedestrian,3.0,Crowd,3.0,Fence,3.0,Motor vehicle,3,Downtown,2.0,Restaurant,1.0,,,,
+131,Black-and-white,1.0,,,Laminate flooring,1.0,Canal,1.0,Parish,3.0,Dirt road,3.0,Plant community,3.0,Corporate headquarters,3,Golf course,2.0,Toolroom,1.0,,,,
+132,White,1.0,,,Lighting,1.0,Kiosk,1.0,Seat of local government,3.0,Street light,2.0,Basilica,3.0,Shore,3,Headquarters,2.0,Canal,1.0,,,,
+133,Green,1.0,,,Park,1.0,Road surface,1.0,Downtown,3.0,Suburb,2.0,Summer,3.0,Sea,3,Fish pond,2.0,Creek,1.0,,,,
+134,Shade,1.0,,,Off-roading,1.0,Statue,1.0,Mustard,3.0,Deck,2.0,Apartment,3.0,Rock,3,Art,2.0,Electrical supply,1.0,,,,
+135,Hut,1.0,,,Exercise equipment,1.0,Reflecting pool,1.0,Freshwater marsh,3.0,First-class cricket,2.0,Basketball court,3.0,Team sport,3,Alley,2.0,Fell,1.0,,,,
+136,Vault,1.0,,,Field,1.0,Farmhouse,1.0,Cumulus,2.0,Shade,2.0,Vacation,3.0,Farmhouse,3,Car dealership,2.0,Trail,1.0,,,,
+137,Commercial building,1.0,,,Bayou,1.0,Flower,1.0,Blossom,2.0,Canopy,2.0,Tidal marsh,3.0,Playground,3,Apartment,2.0,Fence,1.0,,,,
+138,Bog,1.0,,,Wood,1.0,Arena,1.0,Memorial,2.0,Wetland,2.0,Campus,3.0,Fortification,3,Biome,2.0,Supermarket,1.0,,,,
+139,Riparian forest,1.0,,,Night,1.0,Leaf,1.0,Outlet store,2.0,Dock,2.0,Salt marsh,3.0,Watercraft,3,College,2.0,Brutalist architecture,1.0,,,,
+140,Hardwood,1.0,,,Grass family,1.0,Goal,1.0,Flag,2.0,Herd,2.0,Farm,3.0,Canal,3,Flower,2.0,Cottage,1.0,,,,
+141,Soil,1.0,,,Wetland,1.0,Baptistery,1.0,Boardwalk,2.0,Yellow,2.0,Seat of local government,3.0,Boat,3,Night,2.0,Observation tower,1.0,,,,
+142,Weight training,1.0,,,Community centre,1.0,Villa,1.0,Door,2.0,Gasoline,2.0,Stream,3.0,Morning,3,Column,2.0,Backyard,1.0,,,,
+143,Freshwater marsh,1.0,,,Riparian zone,1.0,Headquarters,1.0,Aerial photography,2.0,Sheep,2.0,Reservoir,3.0,Restaurant,3,Atmosphere,2.0,Duck,1.0,,,,
+144,Yurt,1.0,,,Reflection,1.0,Signage,1.0,National historic landmark,2.0,Fish pond,2.0,Asphalt,3.0,Yard,3,Spring,2.0,Boulder,1.0,,,,
+145,Tower,1.0,,,Restaurant,1.0,Bench,1.0,Photography,2.0,Chapel,2.0,Holy places,3.0,Brickwork,3,Road surface,2.0,Aisle,1.0,,,,
+146,Racquet sport,1.0,,,Line,1.0,Fence,1.0,Business,2.0,Bicycle,2.0,Parish,3.0,Company,3,Seat of local government,2.0,Column,1.0,,,,
+147,River,1.0,,,Dirt road,1.0,Cumulus,1.0,Fortification,2.0,bounce house,2.0,Cityscape,2.0,Straw,3,Observation tower,2.0,Landscaping,1.0,,,,
+148,Plain,1.0,,,Airport,1.0,Project,1.0,Leisure,2.0,Fortification,2.0,Woody plant,2.0,Player,3,Landscaping,2.0,Fortification,1.0,,,,
+149,Waterway,1.0,,,Condominium,1.0,Winter,1.0,Yard,2.0,Wilderness,2.0,Photography,2.0,Port,3,Sculpture,2.0,Abbey,1.0,,,,
+150,Nature,1.0,,,Geological phenomenon,1.0,Atmospheric phenomenon,1.0,College,2.0,Playground,2.0,Groundcover,2.0,Atmosphere,3,Player,2.0,Prairie,1.0,,,,
+151,Retail,1.0,,,Light,1.0,Marsh,1.0,Trail,2.0,Physical fitness,2.0,Leisure centre,2.0,Water transportation,3,Floor,2.0,Convenience store,1.0,,,,
+152,Almshouse,1.0,,,Sports equipment,1.0,Walking,1.0,Iron,2.0,Agriculture,2.0,Bicycle,2.0,Road surface,3,Abbey,2.0,Field,1.0,,,,
+153,Tennis Equipment,1.0,,,Mode of transport,1.0,Bridge,1.0,Product,2.0,Lane,2.0,Mid-size car,2.0,Snow,3,Stream bed,2.0,Atmospheric phenomenon,1.0,,,,
+154,History,1.0,,,Sculpture,1.0,Asphalt,1.0,Mode of transport,2.0,Championship,2.0,Furniture,2.0,Coast,3,Highland,2.0,Commercial building,1.0,,,,
+155,Botany,1.0,,,Track,1.0,Fell,1.0,Window,2.0,Road surface,2.0,Hut,2.0,Lake,3,Table,2.0,Warehouse,1.0,,,,
+156,Blizzard,1.0,,,Tidal marsh,1.0,Mode of transport,1.0,Atmospheric phenomenon,2.0,Villa,2.0,Grazing,2.0,Shopping,2,Bar,1.0,Loft,1.0,,,,
+157,Stream,1.0,,,Player,1.0,Cityscape,1.0,Metal,2.0,Light fixture,2.0,Observation tower,2.0,Bazaar,2,Woodland,1.0,Grocery store,1.0,,,,
+158,Historic house,1.0,,,Mountain,1.0,Retail,1.0,Commercial building,2.0,Wood,2.0,Condominium,2.0,Sports equipment,2,Food,1.0,Wildlife,1.0,,,,
+159,Wetland,1.0,,,,,Shrub,1.0,Fuel,2.0,Boardwalk,2.0,Parking lot,2.0,Panorama,2,Countertop,1.0,Shrub,1.0,,,,
+160,Window,1.0,,,,,Pole,1.0,Floor,2.0,Brickwork,2.0,Restaurant,2.0,Sculpture,2,Guard rail,1.0,Guard rail,1.0,,,,
+161,Outlet store,1.0,,,,,Highland,1.0,Flooring,2.0,Biome,2.0,Farmhouse,2.0,Outlet store,2,Industry,1.0,Monastery,1.0,,,,
+162,Floor,1.0,,,,,Lake,1.0,Glass,2.0,Tent,2.0,Team sport,2.0,Fuel,2,Ford motor company,1.0,Mass production,1.0,,,,
+163,Exercise equipment,1.0,,,,,Diner,1.0,Chapel,2.0,Canal,2.0,Walkway,2.0,Village,2,Stone carving,1.0,Urban design,1.0,,,,
+164,Tennis,1.0,,,,,Cobblestone,1.0,Canola,2.0,Leaf,2.0,Sea,2.0,Filling station,2,Water bird,1.0,Almshouse,1.0,,,,
+165,Physical fitness,1.0,,,,,Almshouse,1.0,Machine,2.0,Farmhouse,2.0,Atmospheric phenomenon,2.0,Flag,2,Horizon,1.0,Hill station,1.0,,,,
+166,Wood,1.0,,,,,Fortification,1.0,Bird's-eye view,2.0,Mountain,2.0,Rest area,2.0,Lighting,2,Morning,1.0,Grazing,1.0,,,,
+167,Atmospheric phenomenon,1.0,,,,,Sculpture,1.0,Salt marsh,2.0,Community,2.0,Hill,2.0,Flooring,2,Arroyo,1.0,Subcompact car,1.0,,,,
+168,Inventory,1.0,,,,,Condominium,1.0,Geological phenomenon,2.0,Landscaping,2.0,Window,2.0,Observation tower,2,Villa,1.0,Cityscape,1.0,,,,
+169,Warehouse,1.0,,,,,History,1.0,Shore,2.0,Bovine,2.0,Geological phenomenon,2.0,Gas,2,Golf club,1.0,Outlet store,1.0,,,,
+170,Net,1.0,,,,,Agriculture,1.0,Skyscraper,2.0,Soccer-specific stadium,2.0,Villa,2.0,Furniture,2,Pizza,1.0,Arcade,1.0,,,,
+171,Fountain,1.0,,,,,Rain,1.0,Sport venue,2.0,Reservoir,2.0,Byzantine architecture,2.0,Bicycle,2,Soccer,1.0,Green,1.0,,,,
+172,Grocery store,1.0,,,,,Ecoregion,1.0,Retail,2.0,Evening,2.0,Coast,2.0,Trail,2,Arecales,1.0,Environmental art,1.0,,,,
+173,Product,1.0,,,,,Wall,1.0,Flowering plant,1.0,Vacation,2.0,Turret,2.0,Walking,2,Window,1.0,Art,1.0,,,,
+174,Garden,1.0,,,,,Metropolis,1.0,Lighting,1.0,Infrastructure,2.0,Infrastructure,2.0,Gasoline,2,Tower block,1.0,Car,1.0,,,,
+175,Mountain,1.0,,,,,Hill,1.0,Environmental art,1.0,Thoroughfare,2.0,Goal,2.0,Business,2,Courtyard,1.0,Courthouse,1.0,,,,
+176,,,,,,,Arch,1.0,Panorama,1.0,Gas,2.0,Road surface,2.0,Sports,2,Classical sculpture,1.0,Retail,1.0,,,,
+177,,,,,,,Fountain,1.0,Turret,1.0,Walkway,2.0,Bovine,2.0,Window,2,Machine,1.0,Workshop,1.0,,,,
+178,,,,,,,Steppe,1.0,Crane,1.0,University,2.0,Shed,2.0,Mode of transport,2,Hall,1.0,Yellow,1.0,,,,
+179,,,,,,,Dirt road,1.0,Corporate headquarters,1.0,Photography,2.0,Signage,2.0,Interior design,2,Advertising,1.0,Asphalt,1.0,,,,
+180,,,,,,,Ruins,1.0,Path,1.0,Livestock,1.0,Brickwork,2.0,Headquarters,2,Mode of transport,1.0,Sculpture,1.0,,,,
+181,,,,,,,Rest area,1.0,Bazaar,1.0,Fence,1.0,Family car,2.0,Fish pond,2,Bird,1.0,Monument,1.0,,,,
+182,,,,,,,Floodplain,1.0,Shot tower,1.0,Graffiti,1.0,Door,2.0,Chapel,2,Snout,1.0,National historic landmark,1.0,,,,
+183,,,,,,,Running,1.0,Gasoline,1.0,Filling station,1.0,Crop,2.0,Lane,2,Swan,1.0,Marketplace,1.0,,,,
+184,,,,,,,Cottage,1.0,Byzantine architecture,1.0,Cumulus,1.0,Cumulus,2.0,Ball game,2,Barware,1.0,Brickwork,1.0,,,,
+185,,,,,,,Landscape,1.0,Swimming pool,1.0,Scaffolding,1.0,Soil,2.0,Condominium,2,Flag,1.0,Campus,1.0,,,,
+186,,,,,,,Furniture,1.0,Race track,1.0,Pedestrian,1.0,Leaf,2.0,Infrastructure,2,Beam,1.0,Spring,1.0,,,,
+187,,,,,,,Stream,1.0,Shelf,1.0,Downtown,1.0,Siding,2.0,Cityscape,2,Waterfowl,1.0,Shrubland,1.0,,,,
+188,,,,,,,Advertising,1.0,Sunlight,1.0,Trail,1.0,Mountain,2.0,Shrubland,2,Font,1.0,Historic house,1.0,,,,
+189,,,,,,,Seat of local government,1.0,Mammal,1.0,Memorial,1.0,Canal,2.0,Bird's-eye view,2,Iron,1.0,Convent,1.0,,,,
+190,,,,,,,Net,1.0,Crop,1.0,Football,1.0,Tower block,2.0,Freezing,2,Marsh,1.0,Megalith,1.0,,,,
+191,,,,,,,Caravanserai,1.0,Shade,1.0,Wheel,1.0,Iron,1.0,Coastal and oceanic landforms,2,Branch,1.0,Path,1.0,,,,
+192,,,,,,,Soccer,1.0,Straw,1.0,Rain,1.0,Gasoline,1.0,Parish,2,Caf?,1.0,Metropolis,1.0,,,,
+193,,,,,,,Barn,1.0,Livestock,1.0,Art,1.0,Goats,1.0,Leisure,2,Livestock,1.0,Electrical wiring,1.0,,,,
+194,,,,,,,Corporate headquarters,1.0,Winter,1.0,Almshouse,1.0,Streetball,1.0,Fence,2,Artificial turf,1.0,Ecoregion,1.0,,,,
+195,,,,,,,Suburb,1.0,Convent,1.0,Clay pigeon shooting,1.0,Trail,1.0,Metropolis,2,Sidewalk,1.0,Font,1.0,,,,
+196,,,,,,,,,Bridge,1.0,Rock,1.0,Tennis court,1.0,Convent,2,Listed building,1.0,Home fencing,1.0,,,,
+197,,,,,,,,,Boutique,1.0,Sports training,1.0,Line,1.0,Channel,2,Airport,1.0,,,,,,
+198,,,,,,,,,Home door,1.0,Freeway,1.0,Water bird,1.0,National historic landmark,2,Company,1.0,,,,,,
+199,,,,,,,,,Monument,1.0,Sidewalk,1.0,Player,1.0,Stream,2,Football,1.0,,,,,,
+200,,,,,,,,,Dome,1.0,Convenience store,1.0,Beach,1.0,Branch,2,Gas,1.0,,,,,,
+201,,,,,,,,,Customer,1.0,Metropolis,1.0,Bell tower,1.0,Ancient roman architecture,2,Coffeehouse,1.0,,,,,,
+202,,,,,,,,,Screen door,1.0,Listed building,1.0,Polder,1.0,Boutique,2,Shade,1.0,,,,,,
+203,,,,,,,,,Wilderness,1.0,Toy,1.0,Memorial,1.0,Biome,2,Glass,1.0,,,,,,
+204,,,,,,,,,Air travel,1.0,Paddy field,1.0,Full-size car,1.0,Cumulus,1,Lighting,1.0,,,,,,
+205,,,,,,,,,Hay,1.0,Gazebo,1.0,Mode of transport,1.0,Ceiling,1,Italian food,1.0,,,,,,
+206,,,,,,,,,Dairy cow,1.0,Mode of transport,1.0,Stream bed,1.0,Frost,1,Vacation,1.0,,,,,,
+207,,,,,,,,,Ceiling,1.0,Cricket,1.0,Dirt road,1.0,Clock tower,1,Metropolis,1.0,,,,,,
+208,,,,,,,,,Leisure centre,1.0,Headquarters,1.0,Window film,1.0,Dusk,1,Obelisk,1.0,,,,,,
+209,,,,,,,,,Shrubland,1.0,Shooting sport,1.0,Paddy field,1.0,Cyclo-cross bicycle,1,City car,1.0,,,,,,
+210,,,,,,,,,Levee,1.0,Morning,1.0,Filling station,1.0,Forest,1,Creek,1.0,,,,,,
+211,,,,,,,,,Marketplace,1.0,Product,1.0,Goat,1.0,Bridge,1,Canal,1.0,,,,,,
+212,,,,,,,,,Wall,1.0,Project,1.0,Agriculture,1.0,Food,1,Sunlight,1.0,,,,,,
+213,,,,,,,,,Inventory,1.0,Light,1.0,Gas,1.0,Countertop,1,Factory,1.0,,,,,,
+214,,,,,,,,,Fence,1.0,Marsh,1.0,Ocean,1.0,Memorial,1,Retail,1.0,,,,,,
+215,,,,,,,,,Industry,1.0,Animal sports,1.0,Tire,1.0,Light fixture,1,Street light,1.0,,,,,,
+216,,,,,,,,,Vintage car,1.0,Observation tower,1.0,Herd,1.0,Stock photography,1,Wetland,1.0,,,,,,
+217,,,,,,,,,Font,1.0,Highway,1.0,Shack,1.0,Antique,1,"Ducks, geese and swans",1.0,,,,,,
+218,,,,,,,,,Farmhouse,1.0,Tradition,1.0,Automotive tire,1.0,Harvest,1,Grove,1.0,,,,,,
+219,,,,,,,,,Engineering,1.0,Stream,1.0,Mammal,1.0,Art,1,Light,1.0,,,,,,
+220,,,,,,,,,Dock,1.0,Thatching,1.0,Statue,1.0,Rolling stock,1,Steel,1.0,,,,,,
+221,,,,,,,,,Riparian zone,1.0,Atmosphere,1.0,Basketball moves,1.0,Parking lot,1,Coast,1.0,,,,,,
+222,,,,,,,,,Cobblestone,1.0,History,1.0,Lighting,1.0,Log cabin,1,Parking,1.0,,,,,,
+223,,,,,,,,,Construction,1.0,Fair,1.0,Hedge,1.0,Signage,1,Parking lot,1.0,,,,,,
+224,,,,,,,,,Classic car,1.0,Highland,1.0,Outdoor furniture,1.0,Rapeseed,1,Kiosk,1.0,,,,,,
+225,,,,,,,,,Subcompact car,1.0,Awning,1.0,Playground slide,1.0,Road bicycle,1,Lake,1.0,,,,,,
+226,,,,,,,,,Tidal marsh,1.0,Sunset,1.0,Arroyo,1.0,Column,1,Plant community,1.0,,,,,,
+227,,,,,,,,,Almshouse,1.0,Skeet shooting,1.0,Livestock,1.0,Coffeehouse,1,Boulder,1.0,,,,,,
+228,,,,,,,,,Hedge,1.0,Kettlebell,1.0,Clock tower,1.0,Train,1,Flatbread,1.0,,,,,,
+229,,,,,,,,,Violet family,1.0,Retail,1.0,Compact car,1.0,Table,1,Ingredient,1.0,,,,,,
+230,,,,,,,,,Street light,1.0,Ball game,1.0,Font,1.0,Games,1,Fast food restaurant,1.0,,,,,,
+231,,,,,,,,,University,1.0,Freshwater marsh,1.0,Evening,1.0,Deciduous,1,Working animal,1.0,,,,,,
+232,,,,,,,,,Thatching,1.0,Dog agility,1.0,Duck,1.0,Railway,1,Baptistery,1.0,,,,,,
+233,,,,,,,,,Cherry blossom,1.0,Sporting Group,1.0,Company,1.0,Sports training,1,Autumn,1.0,,,,,,
+234,,,,,,,,,Hill station,1.0,Shooting,1.0,Basketball hoop,1.0,Leaf,1,Stadium,1.0,,,,,,
+235,,,,,,,,,Apartment,1.0,Restaurant,1.0,Street light,1.0,Passenger car,1,Palm tree,1.0,,,,,,
+236,,,,,,,,,Travel,1.0,Technology,1.0,Cycling,1.0,Humpback bridge,1,Fast food,1.0,,,,,,
+237,,,,,,,,,Classic,1.0,Parking lot,1.0,Automotive wheel system,1.0,Plant stem,1,First-class cricket,1.0,,,,,,
+238,,,,,,,,,Petroleum,1.0,Ceremony,1.0,Light fixture,1.0,White,1,Travel,1.0,,,,,,
+239,,,,,,,,,Factory,1.0,Apartment,1.0,Parking,1.0,Convenience store,1,Technology,1.0,,,,,,
+240,,,,,,,,,Light,1.0,Skatepark,1.0,Race track,1.0,Grove,1,Metal,1.0,,,,,,
+241,,,,,,,,,Evening,1.0,Fen,1.0,Basketball,1.0,Ranch,1,Urban design,1.0,,,,,,
+242,,,,,,,,,Antique car,1.0,Petroleum,1.0,Hotel,1.0,Listed building,1,Condominium,1.0,,,,,,
+243,,,,,,,,,History,1.0,Interior design,1.0,Rock,1.0,Boating,1,Trunk,1.0,,,,,,
+244,,,,,,,,,Hill,1.0,Hedge,1.0,Arena,1.0,Shack,1,Outdoor play equipment,1.0,,,,,,
+245,,,,,,,,,Crocus,1.0,Barley,1.0,Bog,1.0,Marsh,1,Yellow,1.0,,,,,,
+246,,,,,,,,,Urban design,1.0,Company,1.0,Swimming,1.0,Afterglow,1,Pizza cheese,1.0,,,,,,
+247,,,,,,,,,Land vehicle,1.0,Pier,1.0,Mountain bike,1.0,Canola,1,Mountain,1.0,,,,,,
+248,,,,,,,,,Brassica rapa,1.0,Dog sports,1.0,Table,1.0,History,1,Shrub,1.0,,,,,,
+249,,,,,,,,,Column,1.0,Bird's-eye view,1.0,Fast food restaurant,1.0,Stadium,1,Dish,1.0,,,,,,
+250,,,,,,,,,Agriculture,1.0,Hill,1.0,Aisle,1.0,Basilica,1,Byzantine architecture,1.0,,,,,,
+251,,,,,,,,,Vacation,1.0,Soccer,1.0,Steppe,1.0,Street light,1,Geological phenomenon,1.0,,,,,,
+252,,,,,,,,,Arch,1.0,Fuel,1.0,Driveway,1.0,Wetland,1,Ecoregion,1.0,,,,,,
+253,,,,,,,,,Annual plant,1.0,Wildflower,1.0,Fast food,1.0,Cycling,1,Sea,1.0,,,,,,
+254,,,,,,,,,State park,1.0,water lily,1.0,Floodplain,1.0,Market,1,Greenhouse,1.0,,,,,,
+255,,,,,,,,,Hut,1.0,Clock tower,1.0,Bench,1.0,Light,1,Playground,1.0,,,,,,
+256,,,,,,,,,Slope,1.0,Window,1.0,Abbey,1.0,Twig,1,Cuisine,1.0,,,,,,
+257,,,,,,,,,Floodplain,1.0,Aquatic plant,1.0,Interior design,1.0,Steppe,1,Shrubland,1.0,,,,,,
+258,,,,,,,,,Interior design,1.0,Rye,1.0,Fuel,1.0,Track,1,California-style pizza,1.0,,,,,,
+259,,,,,,,,,Brick,1.0,Courtyard,1.0,Vehicle door,1.0,University,1,Team sport,1.0,,,,,,
+260,,,,,,,,,Blue,1.0,Grain,1.0,Backyard,1.0,Bench,1,Material property,1.0,,,,,,
+261,,,,,,,,,,,Labyrinth,1.0,Swing,1.0,Abbey,1,Light fixture,1.0,,,,,,
+262,,,,,,,,,,,Panorama,1.0,Lane,1.0,Train station,1,History,1.0,,,,,,
+263,,,,,,,,,,,Business,1.0,Cow-goat family,1.0,Public transport,1,Floristry,1.0,,,,,,
+264,,,,,,,,,,,Flooring,1.0,Art,1.0,Plant community,1,Fence,1.0,,,,,,
+265,,,,,,,,,,,Aerial photography,1.0,Ecoregion,1.0,Jungle,1,Winter,1.0,,,,,,
+266,,,,,,,,,,,Thermokarst,1.0,Ball game,1.0,Nonbuilding structure,1,Sports equipment,1.0,,,,,,
+267,,,,,,,,,,,Maze,1.0,Bird,1.0,Electronic signage,1,Awning,1.0,,,,,,
+268,,,,,,,,,,,Net,1.0,Shrubland,1.0,Hardwood,1,Cobblestone,1.0,,,,,,
+269,,,,,,,,,,,Byzantine architecture,1.0,Luxury vehicle,1.0,Ship,1,Walkway,1.0,,,,,,
+270,,,,,,,,,,,College,1.0,Resort,1.0,Black-and-white,1,Grazing,1.0,,,,,,
+271,,,,,,,,,,,Goal,1.0,Atmosphere,1.0,Freshwater marsh,1,Flooring,1.0,,,,,,
+272,,,,,,,,,,,Ecoregion,1.0,Shopping mall,1.0,Cabinetry,1,,,,,,,,
+273,,,,,,,,,,,Adaptation,1.0,History,1.0,Bovine,1,,,,,,,,
+274,,,,,,,,,,,Cobblestone,1.0,Highland,1.0,Autumn,1,,,,,,,,
+275,,,,,,,,,,,Flag,1.0,Sunset,1.0,Mast,1,,,,,,,,
+276,,,,,,,,,,,Construction,1.0,Play,1.0,Driveway,1,,,,,,,,
+277,,,,,,,,,,,Shopping mall,1.0,Glass,1.0,Soccer-specific stadium,1,,,,,,,,
+278,,,,,,,,,,,,,Sports,1.0,Monochrome,1,,,,,,,,
+279,,,,,,,,,,,,,Corporate headquarters,1.0,Crowd,1,,,,,,,,
+280,,,,,,,,,,,,,Land vehicle,1.0,Closet,1,,,,,,,,
+281,,,,,,,,,,,,,Creek,1.0,Byzantine architecture,1,,,,,,,,
+282,,,,,,,,,,,,,Ruins,1.0,Kitchen,1,,,,,,,,
+283,,,,,,,,,,,,,Junction,1.0,Tall ship,1,,,,,,,,
+284,,,,,,,,,,,,,Air sports,1.0,Floor,1,,,,,,,,
+285,,,,,,,,,,,,,Soccer-specific stadium,1.0,Rest area,1,,,,,,,,
+286,,,,,,,,,,,,,Log cabin,1.0,Marketplace,1,,,,,,,,
+287,,,,,,,,,,,,,Awning,1.0,Pole,1,,,,,,,,
+288,,,,,,,,,,,,,Blue,1.0,Sunset,1,,,,,,,,
+289,,,,,,,,,,,,,,,Beach,1,,,,,,,,
+290,,,,,,,,,,,,,,,Soccer,1,,,,,,,,
+291,,,,,,,,,,,,,,,Tunnel,1,,,,,,,,
+292,,,,,,,,,,,,,,,Agriculture,1,,,,,,,,
+293,,,,,,,,,,,,,,,Event,1,,,,,,,,
+294,,,,,,,,,,,,,,,Mountain,1,,,,,,,,
+295,,,,,,,,,,,,,,,Concrete,1,,,,,,,,
+296,,,,,,,,,,,,,,,Skatepark,1,,,,,,,,
+297,,,,,,,,,,,,,,,Traffic,1,,,,,,,,
+298,,,,,,,,,,,,,,,Walkway,1,,,,,,,,
+299,,,,,,,,,,,,,,,Team,1,,,,,,,,
+300,,,,,,,,,,,,,,,Competition event,1,,,,,,,,
+301,,,,,,,,,,,,,,,Highland,1,,,,,,,,
+302,,,,,,,,,,,,,,,Seat of local government,1,,,,,,,,
+303,,,,,,,,,,,,,,,Material property,1,,,,,,,,
+304,,,,,,,,,,,,,,,Black,1,,,,,,,,
+305,,,,,,,,,,,,,,,Sunlight,1,,,,,,,,
+306,,,,,,,,,,,,,,,Reinforced concrete,1,,,,,,,,
+307,,,,,,,,,,,,,,,Textile,1,,,,,,,,
+308,,,,,,,,,,,,,,,Hotel,1,,,,,,,,
+309,,,,,,,,,,,,,,,Hacienda,1,,,,,,,,
+310,,,,,,,,,,,,,,,Riparian zone,1,,,,,,,,
+311,,,,,,,,,,,,,,,Turret,1,,,,,,,,
+312,,,,,,,,,,,,,,,Construction,1,,,,,,,,
+313,,,,,,,,,,,,,,,Grazing,1,,,,,,,,
+314,,,,,,,,,,,,,,,Blue,1,,,,,,,,

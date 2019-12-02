@@ -1,0 +1,51 @@
+,index2,feature(1-50),frequency(1-50),feature(51-100),frequency(51-100),feature(101-150),frequency(101-150),feature(151-200),frequency(151-200),feature(201-250),frequency(201-250),feature(251-300),frequency(251-300),feature(301-350),frequency(301-350),feature(351-400),frequency(351-400),feature(351-414),frequency(351-414)
+0,0,Sky,251,Public space,30,Soil,9,Line,5,Crop,3,Mustard,2,Dome,1,Loft,1,Sidewalk,1
+1,1,Natural landscape,221,Roof,29,Plaza,9,Fuel,5,Metal,3,Bog,2,Levee,1,Annual plant,1,Fortification,1
+2,2,Grass,205,Human settlement,28,Street,9,Floor,5,Flower,3,Baseball park,2,Fog,1,Handrail,1,Project,1
+3,3,Tree,204,Lake,28,Suburb,9,Sea,5,Deck,3,Bicycle,2,Skeet shooting,1,Sculpture,1,Closet,1
+4,4,Building,199,Waterway,27,Walkway,9,Historic site,5,Night,3,Stream,2,Ceremony,1,Cow-goat family,1,Hardwood,1
+5,5,Architecture,190,Marsh,26,Car,9,Event,5,Inflatable,3,Petroleum,2,Thatching,1,Skatepark,1,Running,1
+6,6,Natural environment,187,Farm,26,Town square,9,Tidal marsh,5,Siding,3,Shore,2,Polder,1,Light,1,Toolroom,1
+7,7,Water,150,Landscape,26,Grazing,8,Filling station,5,Livestock,3,Monochrome,2,Shooting,1,Technology,1,Working animal,1
+8,8,House,128,Fountain,26,Bovine,8,Industry,5,Baseball field,3,Brickwork,2,Product,1,Snout,1,Swimming,1
+9,9,Grassland,123,Ch?teau,25,Team,8,Bridge,5,Outlet store,3,Restaurant,2,Land vehicle,1,Geological phenomenon,1,Grain,1
+10,10,Property,119,Daytime,25,Aerial photography,8,Straw,5,Tourist attraction,3,Parish,2,Cemetery,1,Goats,1,Steeple,1
+11,11,Land lot,104,Wetland,25,Plant community,8,Games,5,Biome,3,Community,2,Beam,1,Train,1,Waterfowl,1
+12,12,Nature,100,Reflection,24,Church,8,Cumulus,5,Guard rail,3,Arena,2,Golf club,1,Convent,1,Air sports,1
+13,13,Water resources,96,Vehicle,23,Sports,8,Ball game,5,Football,3,Rest area,2,Vintage car,1,Mountain bike,1,Mass production,1
+14,14,Estate,87,Official residence,22,Photography,8,Fish pond,5,Motor vehicle,3,Black-and-white,2,Boulder,1,History,1,,
+15,15,Cloud,84,Reservoir,21,Canal,7,Furniture,5,Backyard,3,bounce house,2,Mammal,1,Nonbuilding structure,1,,
+16,16,Bank,83,Freshwater marsh,20,Room,7,Fun,5,Ceiling,3,Dusk,2,Advertising,1,Hill station,1,,
+17,17,Nature reserve,82,Water feature,20,Dirt road,7,Gasoline,5,Branch,3,Championship,2,Classic car,1,Goat,1,,
+18,18,Pasture,75,Morning,20,Landscaping,7,Gas,5,Houseplant,3,Adaptation,2,Door,1,Tradition,1,,
+19,19,Body of water,72,Wilderness,20,Atmosphere,7,Sunset,4,Shade,3,Bus stop,2,Floristry,1,Kiosk,1,,
+20,20,River,71,Transport,20,Snow,7,Net,4,Outdoor play equipment,3,Cathedral,2,Rain,1,Greenhouse,1,,
+21,21,Landmark,68,Leaf,20,Bird's-eye view,7,Soccer,4,Bazaar,3,Airport,2,Textile,1,"Ducks, geese and swans",1,,
+22,22,Vegetation,65,Recreation,19,Evening,7,Crowd,4,Hall,3,Signage,2,Steel,1,Fast food,1,,
+23,23,Plain,62,Watercourse,18,Freezing,7,Herd,4,Courthouse,3,Convenience store,2,Kettlebell,1,Wildflower,1,,
+24,24,Field,60,Asphalt,18,Apartment,7,Presidential palace,4,Pole,3,Race track,2,Clay pigeon shooting,1,Antique,1,,
+25,25,Rural area,59,Metropolitan area,17,Yard,7,Coast,4,Chapel,3,Duck,2,Market,1,Panorama,1,,
+26,26,City,58,Horizon,17,Brick,7,Shrubland,4,Mode of transport,3,Playground,2,Concrete bridge,1,Brutalist architecture,1,,
+27,27,Residential area,56,Fen,17,Castle,7,Frost,4,Water bird,3,Tent,2,Beach,1,Cricket,1,,
+28,28,Lawn,54,Classical architecture,16,Hill,7,Tourism,4,National historic landmark,2,Road trip,2,Glass,1,Iron,1,,
+29,29,Home,54,Thoroughfare,15,Steppe,7,Wall,4,Sheep,2,Mustard plant,2,Harvest,1,Bench,1,,
+30,30,Real estate,53,Atmospheric phenomenon,15,Lane,7,Place of worship,4,Environmental art,2,Almshouse,2,Fair,1,Electrical wiring,1,,
+31,31,Garden,53,Leisure,15,Interior design,7,Shed,4,Sports equipment,2,Paddy field,2,Cycling,1,Shooting sport,1,,
+32,32,Mansion,50,Spring,15,Agriculture,7,Leisure centre,4,Rock,2,Loch,2,Sports training,1,Red,1,,
+33,33,Botany,49,Team sport,14,Swimming pool,6,Dock,4,Physical fitness,2,Font,2,Downtown,1,Yurt,1,,
+34,34,Road,48,Shrub,14,Vacation,6,Riparian zone,4,Memorial,2,Megalith,2,Rye,1,Pier,1,,
+35,35,Palace,45,Stadium,14,Business,6,Wood,4,Fell,2,Cityscape,2,Condominium,1,Workshop,1,,
+36,36,Meadow,43,Mixed-use,14,Trail,6,Bird,4,Canopy,2,Community centre,2,Track,1,Classic,1,,
+37,37,Facade,42,Commercial building,13,Machine,6,Headquarters,4,Yellow,2,Wildlife,2,Traffic,1,Statue,1,,
+38,38,Town,42,Winter,13,Fence,6,Tower,4,Log cabin,2,Shopping,2,Calm,1,Organism,1,,
+39,39,Park,41,Manor house,12,Hay,6,Goal,4,Driveway,2,Shack,2,Barley,1,Flowering plant,1,,
+40,40,Plant,39,Player,12,Retail,6,Reflecting pool,4,Pedestrian,2,Rapeseed,2,Riparian forest,1,Composite material,1,,
+41,41,Green,38,Medieval architecture,12,Floodplain,6,Flooring,4,Canola,2,Path,1,Arch,1,Gothic architecture,1,,
+42,42,Neighbourhood,35,Cottage,12,Factory,6,Flag,3,Engineering,2,Outhouse,1,Map,1,Resort,1,,
+43,43,Grass family,35,Urban design,11,Soccer-specific stadium,6,First-class cricket,3,Marketplace,2,Afterglow,1,Sporting Group,1,Meteorological phenomenon,1,,
+44,44,Sport venue,34,Ecoregion,11,Corporate headquarters,6,Lighting,3,Window,2,Railway,1,Rolling stock,1,Art,1,,
+45,45,Stately home,33,Historic house,10,Autumn,6,Hut,3,Cobblestone,2,Outdoor furniture,1,Dairy cow,1,Electrical supply,1,,
+46,46,Botanical garden,33,Competition event,10,Mountain,6,Table,3,Parking lot,2,Antique car,1,Tundra,1,Winter storm,1,,
+47,47,Prairie,31,Infrastructure,9,Summer,6,Highland,3,Monument,2,Gazebo,1,Air travel,1,Hedge,1,,
+48,48,Pond,31,Road surface,9,Salt marsh,6,Blue,3,Swan,2,Warehouse,1,Subcompact car,1,Ocean,1,,
+49,49,Urban area,31,Woody plant,9,Boardwalk,5,Boutique,3,Golf course,2,Bayou,1,Blizzard,1,Fast food restaurant,1,,

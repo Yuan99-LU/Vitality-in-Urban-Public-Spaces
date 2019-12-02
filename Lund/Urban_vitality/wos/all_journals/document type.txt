@@ -1,0 +1,10 @@
+﻿Document Types	records	% of 829
+ARTICLE	601	72.497
+PROCEEDINGS PAPER	228	27.503
+REVIEW	12	1.448
+BOOK REVIEW	7	0.844
+EDITORIAL MATERIAL	7	0.844
+DATA PAPER	1	0.121
+MEETING ABSTRACT	1	0.121
+RETRACTION	1	0.121
+(0 records (0.000%) do not contain data in the field being analyzed.)

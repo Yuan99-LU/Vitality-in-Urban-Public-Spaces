@@ -1,0 +1,9 @@
+﻿Document Types	records	% of 478
+ARTICLE	457	95.607
+PROCEEDINGS PAPER	27	5.649
+REVIEW	9	1.883
+BOOK REVIEW	7	1.464
+EDITORIAL MATERIAL	4	0.837
+MEETING ABSTRACT	1	0.209
+(0 Document Types value(s) outside display options.)
+(0 records (0.000%) do not contain data in the field being analyzed.)
